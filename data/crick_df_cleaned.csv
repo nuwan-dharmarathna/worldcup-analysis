@@ -1,58 +1,58 @@
 ,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,team_2_wickets,pom,world_cup_year,host_country,match_status,winning_team,best_batter_1,best_batter_1_runs,best_batter_2,best_batter_2_runs,best_baller_1,best_baller_1_wick,best_baller_2,best_baller_2_wick
-0, Manchester,League-Match,CAN,ENG,45.0,0.0,46.0,2.0,Chris Old,1979,ENG,played,ENG,,0,,0,,0,,0
-1, Lord's,League-Match,AUS,ENG,159.0,9.0,160.0,4.0,Graham Gooch,1979,ENG,played,ENG,,0,,0,,0,,0
-2, Manchester,League-Match,SL,IND,238.0,5.0,191.0,0.0,Duleep Mendis,1979,ENG,played,SL,,0,,0,,0,,0
-3, Nottingham,League-Match,PAK,AUS,286.0,7.0,197.0,0.0,Asif Iqbal,1979,ENG,played,PAK,,0,,0,,0,,0
-4, Birmingham,League-Match,CAN,AUS,105.0,0.0,106.0,3.0,Alan Hurst,1979,ENG,played,AUS,,0,,0,,0,,0
-5, Leeds,League-Match,ENG,PAK,165.0,9.0,151.0,0.0,Mike Hendrick,1979,ENG,played,ENG,,0,,0,,0,,0
-6, The Oval,Semi-Final,WI,PAK,293.0,6.0,250.0,0.0,Gordon Greenidge,1979,ENG,played,WI,,0,,0,,0,,0
-7, Manchester,League-Match,CAN,ENG,45.0,0.0,46.0,2.0,Chris Old,1979,ENG,played,ENG,,0,,0,,0,,0
-8, Manchester,Semi-Final,ENG,NZ,221.0,8.0,212.0,9.0,Graham Gooch,1979,ENG,played,ENG,,0,,0,,0,,0
-9, Nottingham,League-Match,SL,NZ,189.0,0.0,190.0,1.0,Geoff Howarth,1979,ENG,played,NZ,,0,,0,,0,,0
-10, Leeds,League-Match,IND,NZ,182.0,0.0,183.0,2.0,Bruce Edgar,1979,ENG,played,NZ,,0,,0,,0,,0
-11, The Oval,League-Match,SL,WI,0.0,0.0,0.0,0.0,,1979,ENG,abandoned,,,0,,0,,0,,0
-12, The Oval,Semi-Final,WI,PAK,293.0,6.0,250.0,0.0,Gordon Greenidge,1979,ENG,played,WI,,0,,0,,0,,0
-13, Lord's,Final,WI,ENG,286.0,9.0,194.0,0.0,Viv Richards,1979,ENG,played,WI,,0,,0,,0,,0
-14, Birmingham,League-Match,IND,WI,190.0,0.0,194.0,1.0,Gordon Greenidge,1979,ENG,played,WI,,0,,0,,0,,0
-15, Leeds,League-Match,CAN,PAK,139.0,9.0,140.0,2.0,Sadiq Mohammad,1979,ENG,played,PAK,,0,,0,,0,,0
-16, Nottingham,League-Match,WI,NZ,244.0,7.0,212.0,9.0,Clive Lloyd,1979,ENG,played,WI,,0,,0,,0,,0
-17, Visakhapatnam,League-Match,AUS,KENYA,304.0,7.0,207.0,7.0,Mark Waugh,1996,IND,played,AUS,,0,,0,,0,,0
-18, Rawalpindi,League-Match,SA,UAE,321.0,2.0,152.0,8.0,Gary Kirsten,1996,PAK,played,SA,,0,,0,,0,,0
-19, Mohali,Semi-Final,AUS,WI,207.0,8.0,202.0,0.0,Shane Warne,1996,IND,played,AUS,,0,,0,,0,,0
-20, Karachi,League-Match,WI,SA,264.0,8.0,245.0,0.0,Brian Lara,1996,PAK,played,WI,,0,,0,,0,,0
-21, Faisalabad,League-Match,NZ,UAE,276.0,8.0,167.0,9.0,Roger Twose,1996,PAK,played,NZ,,0,,0,,0,,0
-22, Vadodara,League-Match,NZ,NED,307.0,8.0,188.0,7.0,Craig Spearman,1996,IND,played,NZ,,0,,0,,0,,0
-23, Jaipur,League-Match,AUS,WI,229.0,6.0,232.0,6.0,Richie Richardson,1996,IND,played,WI,,0,,0,,0,,0
-25, Lahore,Final,AUS,SL,241.0,7.0,245.0,3.0,Aravinda de Silva,1996,PAK,played,SL,,0,,0,,0,,0
-26, Eden Gardens,Semi-Final,SL,IND,251.0,8.0,120.0,8.0,Aravinda de Silva,1996,IND,played,SL,,0,,0,,0,,0
-27, Chennai,League-Match,NZ,AUS,286.0,9.0,289.0,4.0,Mark Waugh,1996,IND,played,AUS,,0,,0,,0,,0
-29, Bengaluru,League-Match,IND,PAK,287.0,8.0,248.0,9.0,Navjot Sidhu,1996,IND,played,IND,,0,,0,,0,,0
-30, Gujranwala,League-Match,UAE,PAK,109.0,9.0,112.0,1.0,Mushtaq Ahmed,1996,PAK,played,PAK,,0,,0,,0,,0
-31, Rawalpindi,League-Match,SA,NED,328.0,3.0,168.0,8.0,Andrew Hudson,1996,PAK,played,SA,,0,,0,,0,,0
-32, Rawalpindi,League-Match,SA,ENG,230.0,0.0,152.0,0.0,Jonty Rhodes,1996,PAK,played,SA,,0,,0,,0,,0
-33, Colombo (SSC),League-Match,ZIM,SL,228.0,6.0,229.0,4.0,Aravinda de Silva,1996,SL,played,SL,,0,,0,,0,,0
-34, Lahore,League-Match,NED,PAK,145.0,7.0,151.0,2.0,Waqar Younis,1996,PAK,played,PAK,,0,,0,,0,,0
-35, Lahore,League-Match,PAK,NZ,281.0,5.0,235.0,0.0,Saleem Malik,1996,PAK,played,PAK,,0,,0,,0,,0
-36, Karachi,League-Match,ENG,PAK,249.0,9.0,250.0,3.0,Aamer Sohail,1996,PAK,played,PAK,,0,,0,,0,,0
-38, Peshawar,League-Match,UAE,ENG,136.0,0.0,140.0,2.0,Neil Smith,1996,PAK,played,ENG,,0,,0,,0,,0
-39, Karachi,League-Match,PAK,SA,242.0,6.0,243.0,5.0,Hansie Cronje,1996,PAK,played,SA,,0,,0,,0,,0
-40, Patna,League-Match,KENYA,ZIM,134.0,0.0,137.0,5.0,Paul Strang,1996,IND,played,ZIM,,0,,0,,0,,0
-41, Faisalabad,League-Match,NZ,SA,177.0,9.0,178.0,5.0,Hansie Cronje,1996,PAK,played,SA,,0,,0,,0,,0
-42, Kandy,League-Match,SL,KENYA,398.0,5.0,254.0,7.0,Aravinda de Silva,1996,IND,played,SL,,0,,0,,0,,0
-43, Gwalior,League-Match,WI,IND,173.0,0.0,174.0,5.0,Sachin Tendulkar,1996,IND,played,IND,,0,,0,,0,,0
-44, Ahmedabad,League-Match,NZ,ENG,239.0,6.0,228.0,9.0,Nathan Astle,1996,IND,played,NZ,,0,,0,,0,,0
-45, Delhi,League-Match,IND,SL,271.0,3.0,272.0,4.0,Sanath Jayasuriya,1996,IND,played,SL,,0,,0,,0,,0
-46, Hyderabad (Deccan),League-Match,ZIM,WI,151.0,9.0,155.0,4.0,Curtly Ambrose,1996,IND,played,WI,,0,,0,,0,,0
-47, Kanpur,League-Match,IND,ZIM,247.0,5.0,207.0,0.0,Ajay Jadeja,1996,IND,played,IND,,0,,0,,0,,0
-48, Wankhede,League-Match,AUS,IND,258.0,0.0,242.0,0.0,Mark Waugh,1996,IND,played,AUS,,0,,0,,0,,0
-49, Gwalior,League-Match,WI,IND,173.0,0.0,174.0,5.0,Sachin Tendulkar,1996,IND,played,IND,,0,,0,,0,,0
-50, Pune,League-Match,KENYA,WI,166.0,0.0,93.0,0.0,Maurice Odumbe,1996,IND,played,KENYA,,0,,0,,0,,0
-51, Cuttack,League-Match,KENYA,IND,199.0,6.0,203.0,3.0,Sachin Tendulkar,1996,IND,played,IND,,0,,0,,0,,0
-52, Faisalabad,League-Match,ENG,SL,235.0,8.0,236.0,5.0,Sanath Jayasuriya,1996,PAK,played,SL,,0,,0,,0,,0
-53, Hyderabad (Deccan),League-Match,ZIM,WI,151.0,9.0,155.0,4.0,Curtly Ambrose,1996,IND,played,WI,,0,,0,,0,,0
-54, Peshawar,League-Match,ENG,NED,279.0,4.0,230.0,6.0,Graeme Hick,1996,PAK,played,ENG,,0,,0,,0,,0
-55, Nagpur,League-Match,ZIM,AUS,154.0,0.0,158.0,2.0,Shane Warne,1996,IND,played,AUS,,0,,0,,0,,0
-56, Lahore,League-Match,NED,UAE,216.0,9.0,220.0,3.0,Saleem Raza,1996,PAK,played,U.A.E.,,0,,0,,0,,0
+0, Manchester,League-Match,CAN,ENG,45.0,0.0,46.0,2.0,Chris Old,1979,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+1, Lord's,League-Match,AUS,ENG,159.0,9.0,160.0,4.0,Graham Gooch,1979,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+2, Manchester,League-Match,SL,IND,238.0,5.0,191.0,0.0,Duleep Mendis,1979,ENG,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+3, Nottingham,League-Match,PAK,AUS,286.0,7.0,197.0,0.0,Asif Iqbal,1979,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+4, Birmingham,League-Match,CAN,AUS,105.0,0.0,106.0,3.0,Alan Hurst,1979,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+5, Leeds,League-Match,ENG,PAK,165.0,9.0,151.0,0.0,Mike Hendrick,1979,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+6, The Oval,Semi-Final,WI,PAK,293.0,6.0,250.0,0.0,Gordon Greenidge,1979,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+7, Manchester,League-Match,CAN,ENG,45.0,0.0,46.0,2.0,Chris Old,1979,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+8, Manchester,Semi-Final,ENG,NZ,221.0,8.0,212.0,9.0,Graham Gooch,1979,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+9, Nottingham,League-Match,SL,NZ,189.0,0.0,190.0,1.0,Geoff Howarth,1979,ENG,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+10, Leeds,League-Match,IND,NZ,182.0,0.0,183.0,2.0,Bruce Edgar,1979,ENG,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+11, The Oval,League-Match,SL,WI,0.0,0.0,0.0,0.0,Unknown,1979,ENG,abandoned,Unknown,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+12, The Oval,Semi-Final,WI,PAK,293.0,6.0,250.0,0.0,Gordon Greenidge,1979,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+13, Lord's,Final,WI,ENG,286.0,9.0,194.0,0.0,Viv Richards,1979,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+14, Birmingham,League-Match,IND,WI,190.0,0.0,194.0,1.0,Gordon Greenidge,1979,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+15, Leeds,League-Match,CAN,PAK,139.0,9.0,140.0,2.0,Sadiq Mohammad,1979,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+16, Nottingham,League-Match,WI,NZ,244.0,7.0,212.0,9.0,Clive Lloyd,1979,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+17, Visakhapatnam,League-Match,AUS,KENYA,304.0,7.0,207.0,7.0,Mark Waugh,1996,IND,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+18, Rawalpindi,League-Match,SA,UAE,321.0,2.0,152.0,8.0,Gary Kirsten,1996,PAK,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+19, Mohali,Semi-Final,AUS,WI,207.0,8.0,202.0,0.0,Shane Warne,1996,IND,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+20, Karachi,League-Match,WI,SA,264.0,8.0,245.0,0.0,Brian Lara,1996,PAK,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+21, Faisalabad,League-Match,NZ,UAE,276.0,8.0,167.0,9.0,Roger Twose,1996,PAK,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+22, Vadodara,League-Match,NZ,NED,307.0,8.0,188.0,7.0,Craig Spearman,1996,IND,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+23, Jaipur,League-Match,AUS,WI,229.0,6.0,232.0,6.0,Richie Richardson,1996,IND,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+25, Lahore,Final,AUS,SL,241.0,7.0,245.0,3.0,Aravinda de Silva,1996,PAK,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+26, Eden Gardens,Semi-Final,SL,IND,251.0,8.0,120.0,8.0,Aravinda de Silva,1996,IND,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+27, Chennai,League-Match,NZ,AUS,286.0,9.0,289.0,4.0,Mark Waugh,1996,IND,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+29, Bengaluru,League-Match,IND,PAK,287.0,8.0,248.0,9.0,Navjot Sidhu,1996,IND,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+30, Gujranwala,League-Match,UAE,PAK,109.0,9.0,112.0,1.0,Mushtaq Ahmed,1996,PAK,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+31, Rawalpindi,League-Match,SA,NED,328.0,3.0,168.0,8.0,Andrew Hudson,1996,PAK,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+32, Rawalpindi,League-Match,SA,ENG,230.0,0.0,152.0,0.0,Jonty Rhodes,1996,PAK,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+33, Colombo (SSC),League-Match,ZIM,SL,228.0,6.0,229.0,4.0,Aravinda de Silva,1996,SL,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+34, Lahore,League-Match,NED,PAK,145.0,7.0,151.0,2.0,Waqar Younis,1996,PAK,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+35, Lahore,League-Match,PAK,NZ,281.0,5.0,235.0,0.0,Saleem Malik,1996,PAK,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+36, Karachi,League-Match,ENG,PAK,249.0,9.0,250.0,3.0,Aamer Sohail,1996,PAK,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+38, Peshawar,League-Match,UAE,ENG,136.0,0.0,140.0,2.0,Neil Smith,1996,PAK,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+39, Karachi,League-Match,PAK,SA,242.0,6.0,243.0,5.0,Hansie Cronje,1996,PAK,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+40, Patna,League-Match,KENYA,ZIM,134.0,0.0,137.0,5.0,Paul Strang,1996,IND,played,ZIM,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+41, Faisalabad,League-Match,NZ,SA,177.0,9.0,178.0,5.0,Hansie Cronje,1996,PAK,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+42, Kandy,League-Match,SL,KENYA,398.0,5.0,254.0,7.0,Aravinda de Silva,1996,IND,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+43, Gwalior,League-Match,WI,IND,173.0,0.0,174.0,5.0,Sachin Tendulkar,1996,IND,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+44, Ahmedabad,League-Match,NZ,ENG,239.0,6.0,228.0,9.0,Nathan Astle,1996,IND,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+45, Delhi,League-Match,IND,SL,271.0,3.0,272.0,4.0,Sanath Jayasuriya,1996,IND,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+46, Hyderabad (Deccan),League-Match,ZIM,WI,151.0,9.0,155.0,4.0,Curtly Ambrose,1996,IND,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+47, Kanpur,League-Match,IND,ZIM,247.0,5.0,207.0,0.0,Ajay Jadeja,1996,IND,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+48, Wankhede,League-Match,AUS,IND,258.0,0.0,242.0,0.0,Mark Waugh,1996,IND,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+49, Gwalior,League-Match,WI,IND,173.0,0.0,174.0,5.0,Sachin Tendulkar,1996,IND,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+50, Pune,League-Match,KENYA,WI,166.0,0.0,93.0,0.0,Maurice Odumbe,1996,IND,played,KENYA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+51, Cuttack,League-Match,KENYA,IND,199.0,6.0,203.0,3.0,Sachin Tendulkar,1996,IND,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+52, Faisalabad,League-Match,ENG,SL,235.0,8.0,236.0,5.0,Sanath Jayasuriya,1996,PAK,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+53, Hyderabad (Deccan),League-Match,ZIM,WI,151.0,9.0,155.0,4.0,Curtly Ambrose,1996,IND,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+54, Peshawar,League-Match,ENG,NED,279.0,4.0,230.0,6.0,Graeme Hick,1996,PAK,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+55, Nagpur,League-Match,ZIM,AUS,154.0,0.0,158.0,2.0,Shane Warne,1996,IND,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+56, Lahore,League-Match,NED,UAE,216.0,9.0,220.0,3.0,Saleem Raza,1996,PAK,played,U.A.E.,Unknown,0,Unknown,0,Unknown,0,Unknown,0
 57, Taunton,League-Match,AFG,NZ,172.0,0.0,173.0,3.0,James Neesham,2019,ENG,played,NZ,KS Williamson,79,Hashmatullah Shahidi,59,JDS Neesham,5,LH Ferguson,4
 58, The Oval,League-Match,BAN,SA,330.0,6.0,309.0,8.0,Shakib Al Hasan,2019,ENG,played,BAN,Mushfiqur Rahim,78,Shakib Al Hasan,75,Mustafizur Rahman,3,AL Phehlukwayo,2
 59, Cardiff,League-Match,ENG,BAN,386.0,6.0,280.0,0.0,Jason Roy,2019,ENG,played,ENG,JJ Roy,153,Shakib Al Hasan,121,JC Archer,3,BA Stokes,3
@@ -62,9 +62,9 @@
 63, Manchester,League-Match,ENG,AFG,397.0,6.0,247.0,8.0,Eoin Morgan,2019,ENG,played,ENG,EJG Morgan,148,JM Bairstow,90,JC Archer,3,AU Rashid,3
 64, Chester-le-Street,League-Match,ENG,NZ,305.0,8.0,186.0,0.0,Jonny Bairstow,2019,ENG,played,ENG,JM Bairstow,106,JJ Roy,60,MA Wood,3,JDS Neesham,2
 65, Nottingham,League-Match,PAK,ENG,348.0,8.0,334.0,9.0,Mohammad Hafeez,2019,ENG,played,PAK,JE Root,107,JC Buttler,103,MM Ali,3,Wahab Riaz,3
-66, Bristol,League-Match,PAK,SL,0.0,0.0,0.0,0.0,,2019,ENG,abandoned,,,0,,0,,0,,0
+66, Bristol,League-Match,PAK,SL,0.0,0.0,0.0,0.0,Unknown,2019,ENG,abandoned,Unknown,Unknown,0,Unknown,0,Unknown,0,Unknown,0
 67, Lord's,Final,NZ,ENG,241.0,8.0,241.0,0.0,Ben Stokes,2019,ENG,played,ENG,BA Stokes,84,JC Buttler,59,CR Woakes,3,LE Plunkett,3
-68, Nottingham,League-Match,IND,NZ,0.0,0.0,0.0,0.0,,2019,ENG,abandoned,,,0,,0,,0,,0
+68, Nottingham,League-Match,IND,NZ,0.0,0.0,0.0,0.0,Unknown,2019,ENG,abandoned,Unknown,Unknown,0,Unknown,0,Unknown,0,Unknown,0
 69, Southampton,League-Match,WI,ENG,212.0,0.0,213.0,2.0,Joe Root,2019,ENG,played,ENG,JE Root,100,N Pooran,63,MA Wood,3,JC Archer,3
 70, Manchester,League-Match,NZ,IND,239.0,8.0,221.0,0.0,Matt Henry,2019,ENG,played,NZ,RA Jadeja,77,LRPL Taylor,74,MJ Henry,3,B Kumar,3
 71, Southampton,League-Match,SA,IND,227.0,9.0,230.0,4.0,Rohit Sharma,2019,ENG,played,IND,RG Sharma,122,CH Morris,42,YS Chahal,4,JJ Bumrah,2
@@ -89,7 +89,7 @@
 90, Cardiff,League-Match,SL,NZ,136.0,0.0,137.0,0.0,Matt Henry,2019,ENG,played,NZ,MJ Guptill,73,C Munro,58,LH Ferguson,3,MJ Henry,3
 91, Lord's,League-Match,AUS,ENG,285.0,7.0,221.0,0.0,Aaron Finch,2019,ENG,played,AUS,AJ Finch,100,BA Stokes,89,JP Behrendorff,5,MA Starc,4
 92, Nottingham,League-Match,AUS,WI,288.0,0.0,273.0,9.0,Nathan Coulter-Nile,2019,ENG,played,AUS,NM Coulter-Nile,92,SPD Smith,73,MA Starc,5,CR Brathwaite,3
-93, Bristol,League-Match,BAN,SL,0.0,0.0,0.0,0.0,,2019,ENG,abandoned,,,0,,0,,0,,0
+93, Bristol,League-Match,BAN,SL,0.0,0.0,0.0,0.0,Unknown,2019,ENG,abandoned,Unknown,Unknown,0,Unknown,0,Unknown,0,Unknown,0
 94, Manchester,League-Match,NZ,IND,239.0,8.0,221.0,0.0,Matt Henry,2019,ENG,played,NZ,RA Jadeja,77,LRPL Taylor,74,MJ Henry,3,B Kumar,3
 95, The Oval,League-Match,IND,AUS,352.0,5.0,316.0,0.0,Shikhar Dhawan,2019,ENG,played,IND,S Dhawan,117,V Kohli,82,B Kumar,3,JJ Bumrah,3
 96, Nottingham,League-Match,AUS,BAN,381.0,5.0,333.0,8.0,David Warner,2019,ENG,played,AUS,DA Warner,166,Mushfiqur Rahim,102,Soumya Sarkar,3,MA Starc,2
@@ -102,50 +102,50 @@
 104, Manchester,League-Match,NZ,WI,291.0,8.0,286.0,0.0,Kane Williamson,2019,ENG,played,NZ,KS Williamson,148,CR Brathwaite,101,TA Boult,4,SS Cottrell,4
 105, Birmingham,League-Match,IND,BAN,314.0,9.0,286.0,0.0,Rohit Sharma,2019,ENG,played,IND,RG Sharma,104,KL Rahul,77,Mustafizur Rahman,5,JJ Bumrah,4
 106, Nottingham,League-Match,PAK,WI,105.0,0.0,108.0,3.0,Oshane Thomas,2019,ENG,played,WI,CH Gayle,50,N Pooran,34,O Thomas,4,Mohammad Amir,3
-107, Chelmsford,League-Match,BAN,NZ,116.0,0.0,117.0,4.0,Gavin Larsen,1999,ENG,played,NZ,,0,,0,,0,,0
-108, Lord's,Final,PAK,AUS,132.0,0.0,133.0,2.0,Shane Warne,1999,ENG,played,AUS,,0,,0,,0,,0
-109, Amstelveen,League-Match,KENYA,SA,152.0,0.0,153.0,3.0,Lance Klusener,1999,ENG,played,SA,,0,,0,,0,,0
-110, The Oval,League-Match,PAK,ZIM,271.0,9.0,123.0,0.0,Saeed Anwar,1999,ENG,played,PAK,,0,,0,,0,,0
-111, Bristol,League-Match,IND,KENYA,329.0,2.0,235.0,7.0,Sachin Tendulkar,1999,ENG,played,IND,,0,,0,,0,,0
-112, Manchester,League-Match,IND,PAK,227.0,6.0,180.0,0.0,Venkatesh Prasad,1999,ENG,played,IND,,0,,0,,0,,0
-113, Lord's,League-Match,AUS,ZIM,303.0,4.0,259.0,6.0,Neil Johnson,1999,ENG,played,AUS,,0,,0,,0,,0
-114, Chelmsford,League-Match,ZIM,SA,233.0,6.0,185.0,0.0,Neil Johnson,1999,ENG,played,ZIM,,0,,0,,0,,0
-115, The Oval,League-Match,AUS,IND,282.0,6.0,205.0,0.0,Glenn McGrath,1999,ENG,played,AUS,,0,,0,,0,,0
-116, Cardiff,League-Match,AUS,NZ,213.0,8.0,214.0,5.0,Roger Twose,1999,ENG,played,NZ,,0,,0,,0,,0
-117, Nottingham,League-Match,IND,NZ,251.0,6.0,253.0,5.0,Roger Twose,1999,ENG,played,NZ,,0,,0,,0,,0
-118, Edinburgh,League-Match,SCOT,NZ,121.0,0.0,123.0,4.0,Geoff Allott,1999,ENG,played,NZ,,0,,0,,0,,0
-119, Southampton,League-Match,NZ,WI,156.0,0.0,158.0,3.0,Ridley Jacobs,1999,ENG,played,WI,,0,,0,,0,,0
-120, Lord's,League-Match,SL,ENG,204.0,0.0,207.0,2.0,Alec Stewart,1999,ENG,played,ENG,,0,,0,,0,,0
-121, Chester-le-Street,League-Match,BAN,AUS,178.0,7.0,181.0,3.0,Tom Moody,1999,ENG,played,AUS,,0,,0,,0,,0
-122, Manchester,Semi-Final,NZ,PAK,241.0,7.0,242.0,1.0,Shoaib Akhtar,1999,ENG,played,PAK,,0,,0,,0,,0
-123, Northampton,League-Match,SA,SL,199.0,9.0,110.0,0.0,Lance Klusener,1999,ENG,played,SA,,0,,0,,0,,0
-124, Derby,League-Match,PAK,NZ,269.0,8.0,207.0,8.0,Inzamam-ul-Haq,1999,ENG,played,PAK,,0,,0,,0,,0
-125, Leeds,League-Match,SA,AUS,271.0,7.0,272.0,5.0,Steve Waugh,1999,ENG,played,AUS,,0,,0,,0,,0
-126, Birmingham,League-Match,SA,NZ,287.0,5.0,213.0,8.0,Jacques Kallis,1999,ENG,played,SA,,0,,0,,0,,0
-127, Birmingham,League-Match,IND,ENG,232.0,8.0,169.0,0.0,Sourav Ganguly,1999,ENG,played,IND,,0,,0,,0,,0
-128, Birmingham,Semi-Final,AUS,SA,213.0,0.0,213.0,0.0,Shane Warne,1999,ENG,played,,,0,,0,,0,,0
-129, Worcester,League-Match,SCOT,AUS,181.0,7.0,182.0,4.0,Mark Waugh,1999,ENG,played,AUS,,0,,0,,0,,0
-130, Leeds,League-Match,ZIM,NZ,175.0,0.0,70.0,3.0,,1999,ENG,played,,,0,,0,,0,,0
-131, Southampton,League-Match,SL,KENYA,275.0,8.0,230.0,6.0,Maurice Odumbe,1999,ENG,played,SL,,0,,0,,0,,0
-132, Bristol,League-Match,PAK,WI,229.0,8.0,202.0,0.0,Azhar Mahmood,1999,ENG,played,PAK,,0,,0,,0,,0
-133, Derby,League-Match,PAK,NZ,269.0,8.0,207.0,8.0,Inzamam-ul-Haq,1999,ENG,played,PAK,,0,,0,,0,,0
-134, Hove,League-Match,IND,SA,253.0,5.0,254.0,6.0,Jacques Kallis,1999,ENG,played,SA,,0,,0,,0,,0
-135, Chester-le-Street,League-Match,PAK,SCOT,261.0,6.0,167.0,0.0,Mohammad Yousuf,1999,ENG,played,PAK,,0,,0,,0,,0
-136, Nottingham,League-Match,PAK,SA,220.0,7.0,221.0,7.0,Lance Klusener,1999,ENG,played,SA,,0,,0,,0,,0
-137, Manchester,League-Match,WI,AUS,110.0,0.0,111.0,4.0,Glenn McGrath,1999,ENG,played,AUS,,0,,0,,0,,0
-138, Leeds,League-Match,PAK,AUS,275.0,8.0,265.0,0.0,Inzamam-ul-Haq,1999,ENG,played,PAK,,0,,0,,0,,0
-139, Taunton,League-Match,IND,SL,373.0,6.0,216.0,0.0,Sourav Ganguly,1999,ENG,played,IND,,0,,0,,0,,0
-140, Northampton,League-Match,BAN,PAK,223.0,9.0,161.0,0.0,Khaled Mahmud,1999,ENG,played,BAN,,0,,0,,0,,0
-141, Lord's,League-Match,SL,ENG,204.0,0.0,207.0,2.0,Alec Stewart,1999,ENG,played,ENG,,0,,0,,0,,0
-142, The Oval,League-Match,SA,ENG,225.0,7.0,103.0,0.0,Lance Klusener,1999,ENG,played,SA,,0,,0,,0,,0
-143, Dublin,League-Match,BAN,WI,182.0,0.0,183.0,3.0,Courtney Walsh,1999,ENG,played,WI,,0,,0,,0,,0
-144, Edinburgh,League-Match,BAN,SCOT,185.0,9.0,163.0,0.0,Minhajul Abedin,1999,ENG,played,BAN,,0,,0,,0,,0
-145, Nottingham,League-Match,ZIM,ENG,167.0,8.0,168.0,3.0,Alan Mullally,1999,ENG,played,ENG,,0,,0,,0,,0
-146, Leicester,League-Match,SCOT,WI,68.0,0.0,70.0,2.0,Courtney Walsh,1999,ENG,played,WI,,0,,0,,0,,0
-147, Leicester,League-Match,ZIM,IND,252.0,9.0,249.0,0.0,Grant Flower,1999,ENG,played,ZIM,,0,,0,,0,,0
-148, Taunton,League-Match,KENYA,ZIM,229.0,7.0,231.0,5.0,Neil Johnson,1999,ENG,played,ZIM,,0,,0,,0,,0
-149, Worcester,League-Match,ZIM,SL,197.0,9.0,198.0,6.0,Marvan Atapattu,1999,ENG,played,SL,,0,,0,,0,,0
-150, Canterbury,League-Match,KENYA,ENG,203.0,0.0,204.0,1.0,Steve Tikolo,1999,ENG,played,ENG,,0,,0,,0,,0
+107, Chelmsford,League-Match,BAN,NZ,116.0,0.0,117.0,4.0,Gavin Larsen,1999,ENG,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+108, Lord's,Final,PAK,AUS,132.0,0.0,133.0,2.0,Shane Warne,1999,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+109, Amstelveen,League-Match,KENYA,SA,152.0,0.0,153.0,3.0,Lance Klusener,1999,ENG,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+110, The Oval,League-Match,PAK,ZIM,271.0,9.0,123.0,0.0,Saeed Anwar,1999,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+111, Bristol,League-Match,IND,KENYA,329.0,2.0,235.0,7.0,Sachin Tendulkar,1999,ENG,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+112, Manchester,League-Match,IND,PAK,227.0,6.0,180.0,0.0,Venkatesh Prasad,1999,ENG,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+113, Lord's,League-Match,AUS,ZIM,303.0,4.0,259.0,6.0,Neil Johnson,1999,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+114, Chelmsford,League-Match,ZIM,SA,233.0,6.0,185.0,0.0,Neil Johnson,1999,ENG,played,ZIM,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+115, The Oval,League-Match,AUS,IND,282.0,6.0,205.0,0.0,Glenn McGrath,1999,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+116, Cardiff,League-Match,AUS,NZ,213.0,8.0,214.0,5.0,Roger Twose,1999,ENG,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+117, Nottingham,League-Match,IND,NZ,251.0,6.0,253.0,5.0,Roger Twose,1999,ENG,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+118, Edinburgh,League-Match,SCOT,NZ,121.0,0.0,123.0,4.0,Geoff Allott,1999,ENG,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+119, Southampton,League-Match,NZ,WI,156.0,0.0,158.0,3.0,Ridley Jacobs,1999,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+120, Lord's,League-Match,SL,ENG,204.0,0.0,207.0,2.0,Alec Stewart,1999,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+121, Chester-le-Street,League-Match,BAN,AUS,178.0,7.0,181.0,3.0,Tom Moody,1999,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+122, Manchester,Semi-Final,NZ,PAK,241.0,7.0,242.0,1.0,Shoaib Akhtar,1999,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+123, Northampton,League-Match,SA,SL,199.0,9.0,110.0,0.0,Lance Klusener,1999,ENG,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+124, Derby,League-Match,PAK,NZ,269.0,8.0,207.0,8.0,Inzamam-ul-Haq,1999,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+125, Leeds,League-Match,SA,AUS,271.0,7.0,272.0,5.0,Steve Waugh,1999,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+126, Birmingham,League-Match,SA,NZ,287.0,5.0,213.0,8.0,Jacques Kallis,1999,ENG,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+127, Birmingham,League-Match,IND,ENG,232.0,8.0,169.0,0.0,Sourav Ganguly,1999,ENG,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+128, Birmingham,Semi-Final,AUS,SA,213.0,0.0,213.0,0.0,Shane Warne,1999,ENG,played,Unknown,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+129, Worcester,League-Match,SCOT,AUS,181.0,7.0,182.0,4.0,Mark Waugh,1999,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+130, Leeds,League-Match,ZIM,NZ,175.0,0.0,70.0,3.0,Unknown,1999,ENG,played,Unknown,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+131, Southampton,League-Match,SL,KENYA,275.0,8.0,230.0,6.0,Maurice Odumbe,1999,ENG,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+132, Bristol,League-Match,PAK,WI,229.0,8.0,202.0,0.0,Azhar Mahmood,1999,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+133, Derby,League-Match,PAK,NZ,269.0,8.0,207.0,8.0,Inzamam-ul-Haq,1999,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+134, Hove,League-Match,IND,SA,253.0,5.0,254.0,6.0,Jacques Kallis,1999,ENG,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+135, Chester-le-Street,League-Match,PAK,SCOT,261.0,6.0,167.0,0.0,Mohammad Yousuf,1999,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+136, Nottingham,League-Match,PAK,SA,220.0,7.0,221.0,7.0,Lance Klusener,1999,ENG,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+137, Manchester,League-Match,WI,AUS,110.0,0.0,111.0,4.0,Glenn McGrath,1999,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+138, Leeds,League-Match,PAK,AUS,275.0,8.0,265.0,0.0,Inzamam-ul-Haq,1999,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+139, Taunton,League-Match,IND,SL,373.0,6.0,216.0,0.0,Sourav Ganguly,1999,ENG,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+140, Northampton,League-Match,BAN,PAK,223.0,9.0,161.0,0.0,Khaled Mahmud,1999,ENG,played,BAN,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+141, Lord's,League-Match,SL,ENG,204.0,0.0,207.0,2.0,Alec Stewart,1999,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+142, The Oval,League-Match,SA,ENG,225.0,7.0,103.0,0.0,Lance Klusener,1999,ENG,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+143, Dublin,League-Match,BAN,WI,182.0,0.0,183.0,3.0,Courtney Walsh,1999,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+144, Edinburgh,League-Match,BAN,SCOT,185.0,9.0,163.0,0.0,Minhajul Abedin,1999,ENG,played,BAN,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+145, Nottingham,League-Match,ZIM,ENG,167.0,8.0,168.0,3.0,Alan Mullally,1999,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+146, Leicester,League-Match,SCOT,WI,68.0,0.0,70.0,2.0,Courtney Walsh,1999,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+147, Leicester,League-Match,ZIM,IND,252.0,9.0,249.0,0.0,Grant Flower,1999,ENG,played,ZIM,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+148, Taunton,League-Match,KENYA,ZIM,229.0,7.0,231.0,5.0,Neil Johnson,1999,ENG,played,ZIM,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+149, Worcester,League-Match,ZIM,SL,197.0,9.0,198.0,6.0,Marvan Atapattu,1999,ENG,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+150, Canterbury,League-Match,KENYA,ENG,203.0,0.0,204.0,1.0,Steve Tikolo,1999,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
 151, North Sound,League-Match,BAN,AUS,104.0,6.0,106.0,0.0,Glenn McGrath,2007,WI,played,AUS,AC Gilchrist,59,ML Hayden,47,GD McGrath,3,NW Bracken,2
 152, Kingston,League-Match,PAK,ZIM,349.0,0.0,99.0,0.0,Imran Nazir,2007,WI,played,PAK,Imran Nazir,160,Inzamam-ul-Haq,37,Shahid Afridi,3,GB Brent,3
 153, Bridgetown,League-Match,WI,BAN,230.0,5.0,131.0,0.0,Ramnaresh Sarwan,2007,WI,played,WI,RR Sarwan,91,S Chanderpaul,50,DBL Powell,3,CD Collymore,2
@@ -160,7 +160,7 @@
 162, Providence,League-Match,NZ,IRE,263.0,8.0,134.0,0.0,Peter Fulton,2007,WI,played,NZ,PG Fulton,83,KJ OBrien,49,DL Vettori,4,WK McCallan,2
 163, Bridgetown,League-Match,ENG,SA,154.0,0.0,157.0,1.0,Andrew Hall,2007,WI,played,SA,GC Smith,89,AJ Strauss,46,AJ Hall,5,A Nel,3
 164, Bridgetown,Final,AUS,SL,281.0,4.0,215.0,8.0,Adam Gilchrist,2007,WI,played,AUS,AC Gilchrist,149,ST Jayasuriya,63,SL Malinga,2,MJ Clarke,2
-165, Kingston,League-Match,IRE,ZIM,221.0,9.0,221.0,0.0,Jeremy Bray,2007,WI,played,,JP Bray,115,S Matsikenyeri,73,E Chigumbura,2,GB Brent,2
+165, Kingston,League-Match,IRE,ZIM,221.0,9.0,221.0,0.0,Jeremy Bray,2007,WI,played,Unknown,JP Bray,115,S Matsikenyeri,73,E Chigumbura,2,GB Brent,2
 166, Port of Spain,League-Match,BER,BAN,94.0,9.0,96.0,3.0,Mohammad Ashraful,2007,WI,played,BAN,Mohammad Ashraful,29,Shakib Al Hasan,26,S Mukuddem,3,Abdur Razzak,3
 167, Port of Spain,League-Match,SL,IND,254.0,6.0,185.0,0.0,Muthiah Muralidaran,2007,WI,played,SL,WU Tharanga,64,R Dravid,60,M Muralidaran,3,WPUJC Vaas,2
 168, Port of Spain,League-Match,SL,BAN,318.0,4.0,112.0,0.0,Sanath Jayasuriya,2007,WI,played,SL,ST Jayasuriya,109,KC Sangakkara,56,SL Malinga,3,WPUJC Vaas,1
@@ -187,7 +187,7 @@
 189, St George's,League-Match,SA,WI,356.0,4.0,289.0,9.0,AB de Villiers,2007,WI,played,SA,AB de Villiers,146,RR Sarwan,92,CD Collymore,2,SM Pollock,2
 190, Port of Spain,League-Match,IND,BAN,191.0,0.0,192.0,5.0,Mashrafe Mortaza,2007,WI,played,BAN,SC Ganguly,66,Mushfiqur Rahim,56,Mashrafe Mortaza,4,Mohammad Rafique,3
 191, Basseterre,League-Match,SCOT,NED,136.0,0.0,140.0,2.0,Billy Stelling,2007,WI,played,NED,RN ten Doeschate,70,B Zuiderent,43,WF Stelling,3,Mohammad Kashif,2
-192, Gros Islet,League-Match,CAN,KENYA,199.0,0.0,203.0,3.0,Steve Tikolo,2007,WI,played,KENYA,,0,,0,,0,,0
+192, Gros Islet,League-Match,CAN,KENYA,199.0,0.0,203.0,3.0,Steve Tikolo,2007,WI,played,KENYA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
 193, North Sound,League-Match,WI,NZ,177.0,0.0,179.0,3.0,Jacob Oram,2007,WI,played,NZ,SB Styris,80,SP Fleming,45,JDP Oram,3,SE Bond,3
 194, Kingston,League-Match,PAK,IRE,132.0,0.0,133.0,7.0,Niall O'Brien,2007,WI,played,IRE,NJ OBrien,72,Kamran Akmal,27,Mohammad Sami,3,WB Rankin,3
 195, North Sound,League-Match,SL,ENG,235.0,0.0,233.0,8.0,Ravi Bopara,2007,WI,played,SL,WU Tharanga,62,KP Pietersen,58,SI Mahmood,4,A Flintoff,3
@@ -249,35 +249,35 @@
 251, Hyderabad,League-Match,PAK,NED,286.0,0.0,205.0,0.0,Saud Shakeel,2023,IND,played,PAK,Saud Shakeel,68,Mohammad Rizwan,68,BFW de Leede,4,Haris Rauf,3
 252, Bengaluru,League-Match,IND,NED,410.0,4.0,250.0,0.0,Shreyas Iyer,2023,IND,played,IND,SS Iyer,128,KL Rahul,102,JJ Bumrah,2,Kuldeep Yadav,2
 253, Dharamsala,League-Match,ENG,BAN,364.0,9.0,227.0,0.0,Dawid Malan,2023,IND,played,ENG,DJ Malan,140,JE Root,82,RJW Topley,4,Mahedi Hasan,4
-254, Pune,League-Match,SL,ENG,218.0,7.0,219.0,2.0,Graham Gooch,1987,IND,played,ENG,,0,,0,,0,,0
-255, Lahore,Semi-Final,AUS,PAK,267.0,8.0,249.0,0.0,Craig McDermott,1987,PAK,played,AUS,,0,,0,,0,,0
-256, Wankhede,Semi-Final,ENG,IND,254.0,6.0,219.0,0.0,Graham Gooch,1987,IND,played,ENG,,0,,0,,0,,0
-257, Karachi,League-Match,WI,PAK,258.0,7.0,230.0,9.0,Richie Richardson,1987,PAK,played,WI,,0,,0,,0,,0
-258, Wankhede,Semi-Final,ENG,IND,254.0,6.0,219.0,0.0,Graham Gooch,1987,IND,played,ENG,,0,,0,,0,,0
-259, Cuttack,League-Match,AUS,ZIM,266.0,5.0,196.0,6.0,David Boon,1987,IND,played,AUS,,0,,0,,0,,0
-260, Karachi,League-Match,WI,PAK,258.0,7.0,230.0,9.0,Richie Richardson,1987,PAK,played,WI,,0,,0,,0,,0
-261, Bengaluru,League-Match,IND,NZ,252.0,7.0,236.0,8.0,Kapil Dev,1987,IND,played,IND,,0,,0,,0,,0
-262, Nagpur,League-Match,NZ,IND,221.0,9.0,224.0,1.0,Sunil Gavaskar,1987,IND,played,IND,,0,,0,,0,,0
-263, Hyderabad (Deccan),League-Match,NZ,ZIM,242.0,7.0,239.0,0.0,Dave Houghton,1987,IND,played,NZ,,0,,0,,0,,0
-264, Chandigarh,League-Match,AUS,NZ,251.0,8.0,234.0,0.0,Geoff Marsh,1987,IND,played,AUS,,0,,0,,0,,0
-265, Hyderabad (Sind),League-Match,PAK,SL,267.0,6.0,252.0,0.0,Javed Miandad,1987,PAK,played,PAK,,0,,0,,0,,0
-266, Eden Gardens,League-Match,ZIM,NZ,227.0,5.0,228.0,6.0,Jeff Crowe,1987,IND,played,NZ,,0,,0,,0,,0
-267, Chennai,League-Match,AUS,ZIM,235.0,9.0,139.0,0.0,Steve Waugh,1987,IND,played,AUS,,0,,0,,0,,0
-268, Peshawar,League-Match,ENG,SL,296.0,4.0,158.0,8.0,Allan Lamb,1987,PAK,played,ENG,,0,,0,,0,,0
-269, Faisalabad,League-Match,PAK,SL,297.0,7.0,184.0,8.0,Saleem Malik,1987,PAK,played,PAK,,0,,0,,0,,0
-270, Gujranwala,League-Match,WI,ENG,243.0,7.0,246.0,8.0,Allan Lamb,1987,PAK,played,ENG,,0,,0,,0,,0
-271, Ahmedabad,League-Match,ZIM,IND,191.0,7.0,194.0,3.0,Kapil Dev,1987,IND,played,IND,,0,,0,,0,,0
-272, Kanpur,League-Match,WI,SL,236.0,8.0,211.0,8.0,Phil Simmons,1987,IND,played,WI,,0,,0,,0,,0
-273, Karachi,League-Match,ENG,PAK,244.0,9.0,247.0,3.0,Imran Khan,1987,PAK,played,PAK,,0,,0,,0,,0
-274, Indore,League-Match,AUS,NZ,199.0,4.0,196.0,9.0,David Boon,1987,IND,played,AUS,,0,,0,,0,,0
-275, Karachi,League-Match,WI,SL,360.0,4.0,169.0,4.0,Viv Richards,1987,PAK,played,WI,,0,,0,,0,,0
-276, Jaipur,League-Match,ENG,WI,269.0,5.0,235.0,0.0,Graham Gooch,1987,IND,played,ENG,,0,,0,,0,,0
-277, Chennai,League-Match,AUS,IND,270.0,6.0,269.0,0.0,Geoff Marsh,1987,IND,played,AUS,,0,,0,,0,,0
-278, Lahore,League-Match,WI,PAK,216.0,0.0,217.0,9.0,Saleem Yousuf,1987,PAK,played,PAK,,0,,0,,0,,0
-279, Delhi,League-Match,IND,AUS,289.0,6.0,233.0,0.0,Mohammad Azharuddin,1987,IND,played,IND,,0,,0,,0,,0
-280, Rawalpindi,League-Match,PAK,ENG,239.0,7.0,221.0,0.0,Abdul Qadir,1987,PAK,played,PAK,,0,,0,,0,,0
-281, Eden Gardens,Final,AUS,ENG,253.0,5.0,246.0,8.0,David Boon,1987,IND,played,AUS,,0,,0,,0,,0
-282, Wankhede,League-Match,ZIM,IND,135.0,0.0,136.0,2.0,Manoj Prabhakar,1987,IND,played,IND,,0,,0,,0,,0
+254, Pune,League-Match,SL,ENG,218.0,7.0,219.0,2.0,Graham Gooch,1987,IND,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+255, Lahore,Semi-Final,AUS,PAK,267.0,8.0,249.0,0.0,Craig McDermott,1987,PAK,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+256, Wankhede,Semi-Final,ENG,IND,254.0,6.0,219.0,0.0,Graham Gooch,1987,IND,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+257, Karachi,League-Match,WI,PAK,258.0,7.0,230.0,9.0,Richie Richardson,1987,PAK,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+258, Wankhede,Semi-Final,ENG,IND,254.0,6.0,219.0,0.0,Graham Gooch,1987,IND,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+259, Cuttack,League-Match,AUS,ZIM,266.0,5.0,196.0,6.0,David Boon,1987,IND,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+260, Karachi,League-Match,WI,PAK,258.0,7.0,230.0,9.0,Richie Richardson,1987,PAK,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+261, Bengaluru,League-Match,IND,NZ,252.0,7.0,236.0,8.0,Kapil Dev,1987,IND,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+262, Nagpur,League-Match,NZ,IND,221.0,9.0,224.0,1.0,Sunil Gavaskar,1987,IND,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+263, Hyderabad (Deccan),League-Match,NZ,ZIM,242.0,7.0,239.0,0.0,Dave Houghton,1987,IND,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+264, Chandigarh,League-Match,AUS,NZ,251.0,8.0,234.0,0.0,Geoff Marsh,1987,IND,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+265, Hyderabad (Sind),League-Match,PAK,SL,267.0,6.0,252.0,0.0,Javed Miandad,1987,PAK,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+266, Eden Gardens,League-Match,ZIM,NZ,227.0,5.0,228.0,6.0,Jeff Crowe,1987,IND,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+267, Chennai,League-Match,AUS,ZIM,235.0,9.0,139.0,0.0,Steve Waugh,1987,IND,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+268, Peshawar,League-Match,ENG,SL,296.0,4.0,158.0,8.0,Allan Lamb,1987,PAK,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+269, Faisalabad,League-Match,PAK,SL,297.0,7.0,184.0,8.0,Saleem Malik,1987,PAK,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+270, Gujranwala,League-Match,WI,ENG,243.0,7.0,246.0,8.0,Allan Lamb,1987,PAK,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+271, Ahmedabad,League-Match,ZIM,IND,191.0,7.0,194.0,3.0,Kapil Dev,1987,IND,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+272, Kanpur,League-Match,WI,SL,236.0,8.0,211.0,8.0,Phil Simmons,1987,IND,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+273, Karachi,League-Match,ENG,PAK,244.0,9.0,247.0,3.0,Imran Khan,1987,PAK,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+274, Indore,League-Match,AUS,NZ,199.0,4.0,196.0,9.0,David Boon,1987,IND,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+275, Karachi,League-Match,WI,SL,360.0,4.0,169.0,4.0,Viv Richards,1987,PAK,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+276, Jaipur,League-Match,ENG,WI,269.0,5.0,235.0,0.0,Graham Gooch,1987,IND,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+277, Chennai,League-Match,AUS,IND,270.0,6.0,269.0,0.0,Geoff Marsh,1987,IND,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+278, Lahore,League-Match,WI,PAK,216.0,0.0,217.0,9.0,Saleem Yousuf,1987,PAK,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+279, Delhi,League-Match,IND,AUS,289.0,6.0,233.0,0.0,Mohammad Azharuddin,1987,IND,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+280, Rawalpindi,League-Match,PAK,ENG,239.0,7.0,221.0,0.0,Abdul Qadir,1987,PAK,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+281, Eden Gardens,Final,AUS,ENG,253.0,5.0,246.0,8.0,David Boon,1987,IND,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+282, Wankhede,League-Match,ZIM,IND,135.0,0.0,136.0,2.0,Manoj Prabhakar,1987,IND,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
 283, Ahmedabad,League-Match,AUS,ZIM,262.0,6.0,171.0,0.0,Shane Watson,2011,IND,played,AUS,SR Watson,79,MJ Clarke,58,MG Johnson,4,JJ Krejza,2
 284, Wankhede,Final,SL,IND,274.0,6.0,277.0,4.0,MS Dhoni,2011,IND,played,IND,DPMD Jayawardene,103,G Gambhir,97,SL Malinga,2,Yuvraj Singh,2
 285, Nagpur,League-Match,IND,SA,296.0,0.0,300.0,7.0,Dale Steyn,2011,IND,played,SA,SR Tendulkar,111,V Sehwag,73,DW Steyn,5,Harbhajan Singh,3
@@ -310,7 +310,7 @@
 312, Colombo (RPS),League-Match,AUS,PAK,176.0,0.0,178.0,6.0,Umar Akmal,2011,SL,played,PAK,Asad Shafiq,46,Umar Akmal,44,B Lee,4,Umar Gul,3
 313, Delhi,League-Match,KENYA,CAN,198.0,0.0,199.0,5.0,Henry Osinde,2011,IND,played,CAN,AS Hansra,70,A Bagai,64,H Osinde,4,Rizwan Cheema,2
 314, Pallekele,League-Match,SL,ZIM,327.0,6.0,188.0,0.0,Tillakaratne Dilshan,2011,SL,played,SL,TM Dilshan,144,WU Tharanga,133,TM Dilshan,4,CB Mpofu,4
-315, Bengaluru,League-Match,IND,ENG,338.0,0.0,338.0,8.0,Andrew Strauss,2011,IND,played,,AJ Strauss,158,SR Tendulkar,120,TT Bresnan,5,Z Khan,3
+315, Bengaluru,League-Match,IND,ENG,338.0,0.0,338.0,8.0,Andrew Strauss,2011,IND,played,Unknown,AJ Strauss,158,SR Tendulkar,120,TT Bresnan,5,Z Khan,3
 316, Eden Gardens,League-Match,SA,IRE,272.0,7.0,141.0,0.0,Jean-Paul Duminy,2011,IND,played,SA,JP Duminy,99,CA Ingram,46,RJ Peterson,3,M Morkel,3
 317, Wankhede,League-Match,SL,NZ,265.0,9.0,153.0,0.0,Kumar Sangakkara,2011,IND,played,SL,KC Sangakkara,111,DPMD Jayawardene,66,M Muralidaran,4,TG Southee,3
 318, Delhi,League-Match,NED,IND,189.0,0.0,191.0,5.0,Yuvraj Singh,2011,IND,played,IND,Yuvraj Singh,51,V Sehwag,39,Z Khan,3,PM Seelaar,3
@@ -328,63 +328,63 @@
 331, Hambantota,League-Match,SL,CAN,332.0,7.0,122.0,0.0,Mahela Jayawardene,2011,SL,played,SL,DPMD Jayawardene,100,KC Sangakkara,92,KMDN Kulasekara,3,NLTC Perera,3
 332, Pallekele,League-Match,ZIM,PAK,151.0,7.0,164.0,3.0,Umar Gul,2011,SL,played,PAK,Asad Shafiq,78,CR Ervine,52,Umar Gul,3,RW Price,2
 333, Colombo (RPS),League-Match,PAK,SL,277.0,7.0,266.0,9.0,Shahid Afridi,2011,SL,played,PAK,Misbah-ul-Haq,83,Younis Khan,72,Shahid Afridi,4,Shoaib Akhtar,2
-334, Nottingham,League-Match,PAK,SL,330.0,6.0,138.0,0.0,Zaheer Abbas,1975,ENG,played,PAK,,0,,0,,0,,0
-335, Leeds,League-Match,EAF,IND,120.0,0.0,123.0,0.0,Farokh Engineer,1975,ENG,played,IND,,0,,0,,0,,0
-336, Leeds,Semi-Final,ENG,AUS,93.0,0.0,94.0,6.0,Gary Gilmour,1975,ENG,played,AUS,,0,,0,,0,,0
-337, Birmingham,League-Match,ENG,EAF,290.0,5.0,94.0,0.0,John Snow,1975,ENG,played,ENG,,0,,0,,0,,0
-338, The Oval,Semi-Final,NZ,WI,158.0,0.0,159.0,5.0,Alvin Kallicharran,1975,ENG,played,WI,,0,,0,,0,,0
-339, Birmingham,League-Match,NZ,EAF,309.0,5.0,128.0,8.0,Glenn Turner,1975,ENG,played,NZ,,0,,0,,0,,0
-340, Birmingham,League-Match,PAK,WI,266.0,7.0,267.0,9.0,Sarfraz Nawaz,1975,ENG,played,WI,,0,,0,,0,,0
-341, Leeds,League-Match,AUS,PAK,278.0,7.0,205.0,0.0,Dennis Lillee,1975,ENG,played,AUS,,0,,0,,0,,0
-342, Nottingham,League-Match,PAK,SL,330.0,6.0,138.0,0.0,Zaheer Abbas,1975,ENG,played,PAK,,0,,0,,0,,0
-343, Nottingham,League-Match,ENG,NZ,266.0,6.0,186.0,0.0,Keith Fletcher,1975,ENG,played,ENG,,0,,0,,0,,0
-344, Manchester,League-Match,SL,WI,86.0,0.0,87.0,1.0,Bernard Julien,1975,ENG,played,WI,,0,,0,,0,,0
-345, The Oval,Semi-Final,NZ,WI,158.0,0.0,159.0,5.0,Alvin Kallicharran,1975,ENG,played,WI,,0,,0,,0,,0
-346, Lord's,League-Match,ENG,IND,334.0,4.0,132.0,3.0,Dennis Amiss,1975,ENG,played,ENG,,0,,0,,0,,0
-347, Manchester,League-Match,IND,NZ,230.0,0.0,233.0,6.0,Glenn Turner,1975,ENG,played,NZ,,0,,0,,0,,0
-348, The Oval,League-Match,AUS,SL,328.0,5.0,276.0,4.0,Alan Turner,1975,ENG,played,AUS,,0,,0,,0,,0
-349, The Oval,League-Match,AUS,WI,192.0,0.0,195.0,3.0,Alvin Kallicharran,1975,ENG,played,WI,,0,,0,,0,,0
-350, Lord's,Final,WI,AUS,291.0,8.0,274.0,0.0,Clive Lloyd,1975,ENG,played,WI,,0,,0,,0,,0
-351, Auckland,League-Match,WI,NZ,203.0,7.0,206.0,5.0,Martin Crowe,1992,NZ,played,NZ,,0,,0,,0,,0
-352, Brisbane,League-Match,SA,PAK,211.0,7.0,173.0,8.0,Andrew Hudson,1992,AUS,played,SA,,0,,0,,0,,0
-353, Sydney,League-Match,IND,PAK,216.0,7.0,173.0,0.0,Sachin Tendulkar,1992,AUS,played,IND,,0,,0,,0,,0
-354, Sydney,League-Match,AUS,SA,170.0,9.0,171.0,1.0,Kepler Wessels,1992,AUS,played,SA,,0,,0,,0,,0
-355, Wellington,League-Match,IND,WI,197.0,0.0,195.0,5.0,Anderson Cummins,1992,NZ,played,WI,,0,,0,,0,,0
-356, Brisbane,League-Match,AUS,IND,237.0,9.0,234.0,0.0,Dean Jones,1992,AUS,played,AUS,,0,,0,,0,,0
-358, Perth,League-Match,ENG,IND,236.0,9.0,227.0,0.0,Ian Botham,1992,AUS,played,ENG,,0,,0,,0,,0
-359, Perth,League-Match,SL,PAK,212.0,6.0,216.0,6.0,Javed Miandad,1992,AUS,played,PAK,,0,,0,,0,,0
-360, Christchurch,League-Match,SA,WI,200.0,8.0,136.0,0.0,Meyrick Pringle,1992,NZ,played,SA,,0,,0,,0,,0
-361, Melbourne,League-Match,WI,ENG,157.0,0.0,160.0,4.0,Chris Lewis,1992,AUS,played,ENG,,0,,0,,0,,0
-362, Napier,League-Match,NZ,ZIM,162.0,3.0,105.0,7.0,Martin Crowe,1992,NZ,played,NZ,,0,,0,,0,,0
-363, Sydney,League-Match,AUS,SA,170.0,9.0,171.0,1.0,Kepler Wessels,1992,AUS,played,SA,,0,,0,,0,,0
-364, Dunedin,League-Match,IND,NZ,230.0,6.0,231.0,6.0,Mark Greatbatch,1992,NZ,played,NZ,,0,,0,,0,,0
-365, Albury,League-Match,ZIM,ENG,134.0,0.0,125.0,0.0,Eddo Brandes,1992,NZ,played,ZIM,,0,,0,,0,,0
-366, Adelaide,League-Match,IND,SA,180.0,6.0,181.0,4.0,Peter Kirsten,1992,AUS,played,SA,,0,,0,,0,,0
-367, Dunedin,League-Match,IND,NZ,230.0,6.0,231.0,6.0,Mark Greatbatch,1992,NZ,played,NZ,,0,,0,,0,,0
-368, Ballarat,League-Match,ENG,SL,280.0,6.0,174.0,0.0,Chris Lewis,1992,NZ,played,ENG,,0,,0,,0,,0
-369, Melbourne,Final,PAK,ENG,249.0,6.0,227.0,0.0,Wasim Akram,1992,AUS,played,PAK,,0,,0,,0,,0
-370, Hobart,League-Match,AUS,ZIM,265.0,6.0,137.0,0.0,Steve Waugh,1992,AUS,played,AUS,,0,,0,,0,,0
-371, Auckland,League-Match,NZ,AUS,248.0,6.0,211.0,0.0,Martin Crowe,1992,NZ,played,NZ,,0,,0,,0,,0
-372, Canberra,League-Match,ZIM,SA,163.0,0.0,164.0,3.0,Peter Kirsten,1992,AUS,played,SA,,0,,0,,0,,0
-373, Melbourne,League-Match,AUS,WI,216.0,6.0,159.0,0.0,David Boon,1992,AUS,played,AUS,,0,,0,,0,,0
-374, Sydney,League-Match,AUS,ENG,171.0,0.0,173.0,2.0,Ian Botham,1992,AUS,played,ENG,,0,,0,,0,,0
-375, Adelaide,League-Match,SL,AUS,189.0,9.0,190.0,3.0,Tom Moody,1992,AUS,played,AUS,,0,,0,,0,,0
-376, Perth,League-Match,PAK,AUS,220.0,9.0,172.0,0.0,Aamer Sohail,1992,AUS,played,PAK,,0,,0,,0,,0
-377, Melbourne,League-Match,SA,ENG,236.0,4.0,226.0,7.0,Alec Stewart,1992,AUS,played,ENG,,0,,0,,0,,0
-378, Adelaide,League-Match,PAK,ENG,74.0,0.0,24.0,1.0,,1992,AUS,played,,,0,,0,,0,,0
-379, Sydney,Semi-Final,ENG,SA,252.0,6.0,232.0,6.0,Graeme Hick,1992,AUS,played,ENG,,0,,0,,0,,0
-380, Brisbane,League-Match,WI,ZIM,264.0,8.0,189.0,7.0,Brian Lara,1992,AUS,played,WI,,0,,0,,0,,0
-381, Hobart,League-Match,PAK,ZIM,254.0,4.0,201.0,7.0,Aamer Sohail,1992,AUS,played,PAK,,0,,0,,0,,0
-382, Christchurch,League-Match,NZ,PAK,166.0,0.0,167.0,3.0,Mushtaq Ahmed,1992,NZ,played,PAK,,0,,0,,0,,0
-383, Melbourne,League-Match,PAK,WI,220.0,2.0,221.0,0.0,Brian Lara,1992,AUS,played,WI,,0,,0,,0,,0
-384, Wellington,League-Match,SA,SL,195.0,0.0,198.0,7.0,Arjuna Ranatunga,1992,NZ,played,SL,,0,,0,,0,,0
-385, Wellington,League-Match,ENG,NZ,200.0,8.0,201.0,3.0,Andrew Jones,1992,NZ,played,NZ,,0,,0,,0,,0
-386, Hamilton,League-Match,IND,ZIM,203.0,7.0,104.0,1.0,Sachin Tendulkar,1992,NZ,played,IND,,0,,0,,0,,0
-387, Berri,League-Match,WI,SL,268.0,8.0,177.0,9.0,Phil Simmons,1992,NZ,played,WI,,0,,0,,0,,0
-388, Hamilton,League-Match,SL,NZ,206.0,9.0,210.0,4.0,Ken Rutherford,1992,NZ,played,NZ,,0,,0,,0,,0
-389, Auckland,League-Match,SA,NZ,190.0,7.0,191.0,3.0,Mark Greatbatch,1992,NZ,played,NZ,,0,,0,,0,,0
-390, New Plymouth,League-Match,ZIM,SL,312.0,4.0,313.0,7.0,Andy Flower,1992,NZ,played,SL,,0,,0,,0,,0
-391, Auckland,Semi-Final,NZ,PAK,262.0,7.0,264.0,6.0,Inzamam-ul-Haq,1992,NZ,played,PAK,,0,,0,,0,,0
+334, Nottingham,League-Match,PAK,SL,330.0,6.0,138.0,0.0,Zaheer Abbas,1975,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+335, Leeds,League-Match,EAF,IND,120.0,0.0,123.0,0.0,Farokh Engineer,1975,ENG,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+336, Leeds,Semi-Final,ENG,AUS,93.0,0.0,94.0,6.0,Gary Gilmour,1975,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+337, Birmingham,League-Match,ENG,EAF,290.0,5.0,94.0,0.0,John Snow,1975,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+338, The Oval,Semi-Final,NZ,WI,158.0,0.0,159.0,5.0,Alvin Kallicharran,1975,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+339, Birmingham,League-Match,NZ,EAF,309.0,5.0,128.0,8.0,Glenn Turner,1975,ENG,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+340, Birmingham,League-Match,PAK,WI,266.0,7.0,267.0,9.0,Sarfraz Nawaz,1975,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+341, Leeds,League-Match,AUS,PAK,278.0,7.0,205.0,0.0,Dennis Lillee,1975,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+342, Nottingham,League-Match,PAK,SL,330.0,6.0,138.0,0.0,Zaheer Abbas,1975,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+343, Nottingham,League-Match,ENG,NZ,266.0,6.0,186.0,0.0,Keith Fletcher,1975,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+344, Manchester,League-Match,SL,WI,86.0,0.0,87.0,1.0,Bernard Julien,1975,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+345, The Oval,Semi-Final,NZ,WI,158.0,0.0,159.0,5.0,Alvin Kallicharran,1975,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+346, Lord's,League-Match,ENG,IND,334.0,4.0,132.0,3.0,Dennis Amiss,1975,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+347, Manchester,League-Match,IND,NZ,230.0,0.0,233.0,6.0,Glenn Turner,1975,ENG,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+348, The Oval,League-Match,AUS,SL,328.0,5.0,276.0,4.0,Alan Turner,1975,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+349, The Oval,League-Match,AUS,WI,192.0,0.0,195.0,3.0,Alvin Kallicharran,1975,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+350, Lord's,Final,WI,AUS,291.0,8.0,274.0,0.0,Clive Lloyd,1975,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+351, Auckland,League-Match,WI,NZ,203.0,7.0,206.0,5.0,Martin Crowe,1992,NZ,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+352, Brisbane,League-Match,SA,PAK,211.0,7.0,173.0,8.0,Andrew Hudson,1992,AUS,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+353, Sydney,League-Match,IND,PAK,216.0,7.0,173.0,0.0,Sachin Tendulkar,1992,AUS,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+354, Sydney,League-Match,AUS,SA,170.0,9.0,171.0,1.0,Kepler Wessels,1992,AUS,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+355, Wellington,League-Match,IND,WI,197.0,0.0,195.0,5.0,Anderson Cummins,1992,NZ,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+356, Brisbane,League-Match,AUS,IND,237.0,9.0,234.0,0.0,Dean Jones,1992,AUS,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+358, Perth,League-Match,ENG,IND,236.0,9.0,227.0,0.0,Ian Botham,1992,AUS,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+359, Perth,League-Match,SL,PAK,212.0,6.0,216.0,6.0,Javed Miandad,1992,AUS,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+360, Christchurch,League-Match,SA,WI,200.0,8.0,136.0,0.0,Meyrick Pringle,1992,NZ,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+361, Melbourne,League-Match,WI,ENG,157.0,0.0,160.0,4.0,Chris Lewis,1992,AUS,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+362, Napier,League-Match,NZ,ZIM,162.0,3.0,105.0,7.0,Martin Crowe,1992,NZ,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+363, Sydney,League-Match,AUS,SA,170.0,9.0,171.0,1.0,Kepler Wessels,1992,AUS,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+364, Dunedin,League-Match,IND,NZ,230.0,6.0,231.0,6.0,Mark Greatbatch,1992,NZ,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+365, Albury,League-Match,ZIM,ENG,134.0,0.0,125.0,0.0,Eddo Brandes,1992,NZ,played,ZIM,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+366, Adelaide,League-Match,IND,SA,180.0,6.0,181.0,4.0,Peter Kirsten,1992,AUS,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+367, Dunedin,League-Match,IND,NZ,230.0,6.0,231.0,6.0,Mark Greatbatch,1992,NZ,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+368, Ballarat,League-Match,ENG,SL,280.0,6.0,174.0,0.0,Chris Lewis,1992,NZ,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+369, Melbourne,Final,PAK,ENG,249.0,6.0,227.0,0.0,Wasim Akram,1992,AUS,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+370, Hobart,League-Match,AUS,ZIM,265.0,6.0,137.0,0.0,Steve Waugh,1992,AUS,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+371, Auckland,League-Match,NZ,AUS,248.0,6.0,211.0,0.0,Martin Crowe,1992,NZ,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+372, Canberra,League-Match,ZIM,SA,163.0,0.0,164.0,3.0,Peter Kirsten,1992,AUS,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+373, Melbourne,League-Match,AUS,WI,216.0,6.0,159.0,0.0,David Boon,1992,AUS,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+374, Sydney,League-Match,AUS,ENG,171.0,0.0,173.0,2.0,Ian Botham,1992,AUS,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+375, Adelaide,League-Match,SL,AUS,189.0,9.0,190.0,3.0,Tom Moody,1992,AUS,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+376, Perth,League-Match,PAK,AUS,220.0,9.0,172.0,0.0,Aamer Sohail,1992,AUS,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+377, Melbourne,League-Match,SA,ENG,236.0,4.0,226.0,7.0,Alec Stewart,1992,AUS,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+378, Adelaide,League-Match,PAK,ENG,74.0,0.0,24.0,1.0,Unknown,1992,AUS,played,Unknown,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+379, Sydney,Semi-Final,ENG,SA,252.0,6.0,232.0,6.0,Graeme Hick,1992,AUS,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+380, Brisbane,League-Match,WI,ZIM,264.0,8.0,189.0,7.0,Brian Lara,1992,AUS,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+381, Hobart,League-Match,PAK,ZIM,254.0,4.0,201.0,7.0,Aamer Sohail,1992,AUS,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+382, Christchurch,League-Match,NZ,PAK,166.0,0.0,167.0,3.0,Mushtaq Ahmed,1992,NZ,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+383, Melbourne,League-Match,PAK,WI,220.0,2.0,221.0,0.0,Brian Lara,1992,AUS,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+384, Wellington,League-Match,SA,SL,195.0,0.0,198.0,7.0,Arjuna Ranatunga,1992,NZ,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+385, Wellington,League-Match,ENG,NZ,200.0,8.0,201.0,3.0,Andrew Jones,1992,NZ,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+386, Hamilton,League-Match,IND,ZIM,203.0,7.0,104.0,1.0,Sachin Tendulkar,1992,NZ,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+387, Berri,League-Match,WI,SL,268.0,8.0,177.0,9.0,Phil Simmons,1992,NZ,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+388, Hamilton,League-Match,SL,NZ,206.0,9.0,210.0,4.0,Ken Rutherford,1992,NZ,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+389, Auckland,League-Match,SA,NZ,190.0,7.0,191.0,3.0,Mark Greatbatch,1992,NZ,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+390, New Plymouth,League-Match,ZIM,SL,312.0,4.0,313.0,7.0,Andy Flower,1992,NZ,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+391, Auckland,Semi-Final,NZ,PAK,262.0,7.0,264.0,6.0,Inzamam-ul-Haq,1992,NZ,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
 392, Hobart,League-Match,SL,SCOT,363.0,9.0,215.0,0.0,Kumar Sangakkara,2015,AUS,played,SL,KC Sangakkara,124,TM Dilshan,104,KMDN Kulasekara,3,PVD Chameera,3
 393, Canberra,League-Match,WI,ZIM,372.0,2.0,289.0,0.0,Chris Gayle,2015,AUS,played,WI,CH Gayle,215,MN Samuels,133,JE Taylor,3,JO Holder,3
 394, Auckland,Semi-Final,SA,NZ,281.0,5.0,299.0,6.0,Grant Elliott,2015,NZ,played,NZ,GD Elliott,84,F du Plessis,82,M Morkel,3,CJ Anderson,3
@@ -433,87 +433,87 @@
 437, Hamilton,League-Match,SA,ZIM,339.0,4.0,277.0,0.0,David Miller,2015,NZ,played,SA,DA Miller,138,JP Duminy,115,Imran Tahir,3,VD Philander,2
 438, Wellington,League-Match,SA,UAE,341.0,6.0,195.0,0.0,AB de Villiers,2015,NZ,played,SA,AB de Villiers,99,F Behardien,64,Mohammad Naveed,3,M Morkel,2
 439, Wellington,Final,NZ,WI,393.0,6.0,250.0,0.0,Martin Guptill,2015,NZ,played,NZ,MJ Guptill,237,CH Gayle,61,TA Boult,4,JE Taylor,3
-440, Brisbane,League-Match,AUS,BAN,0.0,0.0,0.0,0.0,,2015,AUS,abandoned,,,0,,0,,0,,0
+440, Brisbane,League-Match,AUS,BAN,0.0,0.0,0.0,0.0,Unknown,2015,AUS,abandoned,Unknown,Unknown,0,Unknown,0,Unknown,0,Unknown,0
 441, Melbourne,League-Match,SL,BAN,332.0,1.0,240.0,0.0,Tillakaratne Dilshan,2015,AUS,played,SL,TM Dilshan,161,KC Sangakkara,105,SL Malinga,3,TM Dilshan,2
 442, Hobart,League-Match,SCOT,AUS,130.0,0.0,133.0,3.0,Mitchell Starc,2015,AUS,played,AUS,MJ Clarke,47,MW Machan,40,MA Starc,4,PJ Cummins,3
-443, Gqeberha,League-Match,ENG,NAM,272.0,0.0,217.0,9.0,Jan-Berrie Burger,2003,SA,played,ENG,,0,,0,,0,,0
-444, Harare,League-Match,IND,ZIM,255.0,7.0,172.0,0.0,Sachin Tendulkar,2003,SA,played,IND,,0,,0,,0,,0
-445, Centurion,League-Match,NZ,IND,146.0,0.0,150.0,3.0,Zaheer Khan,2003,SA,played,IND,,0,,0,,0,,0
-446, Potchefstroom,League-Match,AUS,NED,170.0,2.0,122.0,0.0,Damien Martyn,2003,SA,played,AUS,,0,,0,,0,,0
-447, Johannesburg,Final,AUS,IND,359.0,2.0,234.0,0.0,Ricky Ponting,2003,SA,played,AUS,,0,,0,,0,,0
-449, Kimberley,League-Match,PAK,NAM,255.0,9.0,84.0,0.0,Wasim Akram,2003,SA,played,PAK,,0,,0,,0,,0
-450, Durban,League-Match,KENYA,AUS,174.0,8.0,178.0,5.0,Aasif Karim,2003,SA,played,AUS,,0,,0,,0,,0
-451, Durban,Semi-Final,IND,KENYA,270.0,4.0,179.0,0.0,Sourav Ganguly,2003,SA,played,IND,,0,,0,,0,,0
-452, Durban,League-Match,SL,SA,268.0,9.0,229.0,6.0,Marvan Atapattu,2003,SA,played,,,0,,0,,0,,0
-453, Cape Town,League-Match,ENG,PAK,246.0,8.0,134.0,0.0,James Anderson,2003,SA,played,ENG,,0,,0,,0,,0
-454, Harare,League-Match,ZIM,NAM,340.0,2.0,104.0,5.0,Craig Wishart,2003,SA,played,ZIM,,0,,0,,0,,0
-455, Cape Town,League-Match,CAN,KENYA,197.0,0.0,198.0,6.0,Thomas Odoyo,2003,SA,played,KENYA,,0,,0,,0,,0
-456, Potchefstroom,League-Match,AUS,NAM,301.0,6.0,45.0,0.0,Glenn McGrath,2003,SA,played,AUS,,0,,0,,0,,0
-457, Bulawayo,League-Match,ZIM,AUS,246.0,9.0,248.0,3.0,Andy Blignaut,2003,SA,played,AUS,,0,,0,,0,,0
-458, Durban,League-Match,IND,ENG,250.0,9.0,168.0,0.0,Ashish Nehra,2003,SA,played,IND,,0,,0,,0,,0
-459, Kimberley,League-Match,BAN,NZ,198.0,7.0,199.0,3.0,Craig McMillan,2003,SA,played,NZ,,0,,0,,0,,0
-460, Centurion,League-Match,PAK,IND,273.0,7.0,276.0,4.0,Sachin Tendulkar,2003,SA,played,IND,,0,,0,,0,,0
-461, Bloemfontein,League-Match,NED,NAM,314.0,4.0,250.0,0.0,Feiko Kloppenburg,2003,SA,played,NED,,0,,0,,0,,0
-462, East London,League-Match,SA,CAN,254.0,8.0,136.0,5.0,Boeta Dippenaar,2003,SA,played,SA,,0,,0,,0,,0
-463, Benoni,League-Match,WI,BAN,244.0,9.0,32.0,2.0,,2003,SA,played,,,0,,0,,0,,0
-464, Paarl,League-Match,PAK,NED,253.0,9.0,156.0,0.0,Mohammad Yousuf,2003,SA,played,PAK,,0,,0,,0,,0
-465, Johannesburg,League-Match,IND,SL,292.0,6.0,109.0,0.0,Javagal Srinath,2003,SA,played,IND,,0,,0,,0,,0
-467, Pietermaritzburg,League-Match,BAN,SL,124.0,0.0,126.0,0.0,Chaminda Vaas,2003,SA,played,SL,,0,,0,,0,,0
-468, Johannesburg,League-Match,SA,NZ,306.0,6.0,229.0,1.0,Stephen Fleming,2003,SA,played,NZ,,0,,0,,0,,0
-469, Nairobi (Gym),League-Match,KENYA,SL,210.0,9.0,157.0,0.0,Collins Obuya,2003,SA,played,KENYA,,0,,0,,0,,0
-470, Bloemfontein,League-Match,BAN,SA,108.0,0.0,109.0,0.0,Makhaya Ntini,2003,SA,played,SA,,0,,0,,0,,0
-471, Centurion,League-Match,AUS,SL,319.0,5.0,223.0,0.0,Ricky Ponting,2003,SA,played,AUS,,0,,0,,0,,0
-472, Centurion,League-Match,IND,AUS,125.0,0.0,128.0,1.0,Jason Gillespie,2003,SA,played,AUS,,0,,0,,0,,0
-473, Cape Town,League-Match,SL,WI,228.0,6.0,222.0,9.0,Chaminda Vaas,2003,SA,played,SL,,0,,0,,0,,0
-474, Bloemfontein,League-Match,ZIM,KENYA,133.0,0.0,135.0,3.0,Martin Suji,2003,SA,played,KENYA,,0,,0,,0,,0
-475, East London,League-Match,NED,ENG,142.0,9.0,144.0,4.0,James Anderson,2003,SA,played,ENG,,0,,0,,0,,0
-476, Gqeberha,Semi-Final,AUS,SL,212.0,7.0,123.0,7.0,Andrew Symonds,2003,SA,played,AUS,,0,,0,,0,,0
-478, Bloemfontein,League-Match,ZIM,KENYA,133.0,0.0,135.0,3.0,Martin Suji,2003,SA,played,KENYA,,0,,0,,0,,0
-479, Cape Town,League-Match,WI,SA,278.0,5.0,275.0,9.0,Brian Lara,2003,SA,played,WI,,0,,0,,0,,0
-480, Cape Town,League-Match,KENYA,IND,225.0,6.0,226.0,4.0,Sourav Ganguly,2003,SA,played,IND,,0,,0,,0,,0
-481, Gqeberha,League-Match,AUS,NZ,208.0,9.0,112.0,0.0,Shane Bond,2003,SA,played,AUS,,0,,0,,0,,0
-482, Gqeberha,League-Match,NZ,WI,241.0,7.0,221.0,0.0,Andre Adams,2003,SA,played,NZ,,0,,0,,0,,0
-483, Paarl,League-Match,IND,NED,204.0,0.0,136.0,0.0,Tim de Leede,2003,SA,played,IND,,0,,0,,0,,0
-484, Benoni,League-Match,CAN,NZ,196.0,0.0,197.0,5.0,John Davison,2003,SA,played,NZ,,0,,0,,0,,0
-485, Durban,League-Match,CAN,BAN,180.0,0.0,120.0,0.0,Austin Codrington,2003,SA,played,CAN,,0,,0,,0,,0
-486, Potchefstroom,League-Match,KENYA,SA,140.0,0.0,142.0,0.0,Lance Klusener,2003,SA,played,SA,,0,,0,,0,,0
-487, Pietermaritzburg,League-Match,IND,NAM,311.0,2.0,130.0,0.0,Sachin Tendulkar,2003,SA,played,IND,,0,,0,,0,,0
-488, East London,League-Match,SL,ZIM,256.0,5.0,182.0,0.0,Marvan Atapattu,2003,SA,played,SL,,0,,0,,0,,0
-490, Gqeberha,League-Match,ENG,AUS,204.0,8.0,208.0,8.0,Andy Bichel,2003,SA,played,AUS,,0,,0,,0,,0
-491, Bulawayo,League-Match,ZIM,NED,301.0,8.0,202.0,9.0,Heath Streak,2003,SA,played,ZIM,,0,,0,,0,,0
-492, Johannesburg,League-Match,KENYA,BAN,217.0,7.0,185.0,0.0,Maurice Odumbe,2003,SA,played,KENYA,,0,,0,,0,,0
-493, Centurion,League-Match,CAN,WI,202.0,0.0,206.0,3.0,John Davison,2003,SA,played,WI,,0,,0,,0,,0
-494, Bloemfontein,League-Match,SL,NZ,272.0,7.0,225.0,0.0,Sanath Jayasuriya,2003,SA,played,SL,,0,,0,,0,,0
-495, Johannesburg,League-Match,AUS,PAK,310.0,8.0,228.0,0.0,Andrew Symonds,2003,SA,played,AUS,,0,,0,,0,,0
-496, Bloemfontein,League-Match,ZIM,NZ,252.0,7.0,253.0,4.0,Nathan Astle,2003,SA,played,NZ,,0,,0,,0,,0
-497, Paarl,League-Match,CAN,SL,36.0,0.0,37.0,1.0,Prabath Nissanka,2003,SA,played,SL,,0,,0,,0,,0
-498, Kimberley,League-Match,WI,KENYA,246.0,7.0,104.0,0.0,Vasbert Drakes,2003,SA,played,WI,,0,,0,,0,,0
-499, Tunbridge Wells,League-Match,IND,ZIM,266.0,8.0,235.0,0.0,Kapil Dev,1983,ENG,played,IND,,0,,0,,0,,0
-500, Nottingham,League-Match,ZIM,AUS,239.0,6.0,226.0,7.0,Duncan Fletcher,1983,ENG,played,ZIM,,0,,0,,0,,0
-501, Birmingham,League-Match,ZIM,WI,171.0,0.0,172.0,0.0,Faoud Bacchus,1983,ENG,played,WI,,0,,0,,0,,0
-502, Chelmsford,League-Match,IND,AUS,247.0,0.0,129.0,0.0,Roger Binny,1983,ENG,played,IND,,0,,0,,0,,0
-503, Bristol,League-Match,SL,NZ,206.0,0.0,209.0,5.0,Richard Hadlee,1983,ENG,played,NZ,,0,,0,,0,,0
-504, Worcester,League-Match,ZIM,WI,217.0,7.0,218.0,2.0,Gordon Greenidge,1983,ENG,played,WI,,0,,0,,0,,0
-505, The Oval,League-Match,ENG,NZ,322.0,6.0,216.0,0.0,Allan Lamb,1983,ENG,played,ENG,,0,,0,,0,,0
-506, Leicester,League-Match,ZIM,IND,155.0,0.0,157.0,5.0,Madan Lal,1983,ENG,played,IND,,0,,0,,0,,0
-507, Taunton,League-Match,ENG,SL,333.0,9.0,286.0,0.0,David Gower,1983,ENG,played,ENG,,0,,0,,0,,0
-508, Derby,League-Match,NZ,SL,181.0,0.0,184.0,7.0,Ashantha de Mel,1983,ENG,played,SL,,0,,0,,0,,0
-509, Manchester,Semi-Final,ENG,IND,213.0,0.0,217.0,4.0,Mohinder Amarnath,1983,ENG,played,IND,,0,,0,,0,,0
-510, Southampton,League-Match,AUS,ZIM,272.0,7.0,240.0,0.0,Dave Houghton,1983,ENG,played,AUS,,0,,0,,0,,0
-511, Lord's,League-Match,PAK,ENG,193.0,8.0,199.0,2.0,Zaheer Abbas,1983,ENG,played,ENG,,0,,0,,0,,0
-512, Taunton,League-Match,ENG,SL,333.0,9.0,286.0,0.0,David Gower,1983,ENG,played,ENG,,0,,0,,0,,0
-513, Birmingham,League-Match,ENG,NZ,234.0,0.0,238.0,8.0,Jeremy Coney,1983,ENG,played,NZ,,0,,0,,0,,0
-514, The Oval,Semi-Final,PAK,WI,184.0,8.0,188.0,2.0,Viv Richards,1983,ENG,played,WI,,0,,0,,0,,0
-515, Swansea,League-Match,PAK,SL,338.0,5.0,288.0,9.0,Mohsin Khan,1983,ENG,played,PAK,,0,,0,,0,,0
-516, Nottingham,League-Match,PAK,NZ,261.0,3.0,250.0,0.0,Imran Khan,1983,ENG,played,PAK,,0,,0,,0,,0
-517, Leeds,League-Match,WI,AUS,252.0,9.0,151.0,0.0,Winston Davis,1983,ENG,played,WI,,0,,0,,0,,0
-518, The Oval,League-Match,WI,IND,282.0,9.0,216.0,0.0,Viv Richards,1983,ENG,played,WI,,0,,0,,0,,0
-519, Nottingham,League-Match,AUS,IND,320.0,9.0,158.0,0.0,Trevor Chappell,1983,ENG,played,AUS,,0,,0,,0,,0
-520, Lord's,League-Match,AUS,WI,273.0,6.0,276.0,3.0,Viv Richards,1983,ENG,played,WI,,0,,0,,0,,0
-521, Manchester,League-Match,IND,WI,262.0,8.0,228.0,0.0,Yashpal Sharma,1983,ENG,played,IND,,0,,0,,0,,0
-522, Leeds,League-Match,SL,ENG,136.0,0.0,137.0,1.0,Bob Willis,1983,ENG,played,ENG,,0,,0,,0,,0
-523, Birmingham,League-Match,NZ,PAK,238.0,9.0,186.0,0.0,Abdul Qadir,1983,ENG,played,NZ,,0,,0,,0,,0
-524, Bristol,League-Match,SL,NZ,206.0,0.0,209.0,5.0,Richard Hadlee,1983,ENG,played,NZ,,0,,0,,0,,0
-525, Manchester,League-Match,PAK,ENG,232.0,8.0,233.0,3.0,Graeme Fowler,1983,ENG,played,ENG,,0,,0,,0,,0
-526, Lord's,Final,IND,WI,183.0,0.0,140.0,0.0,Mohinder Amarnath,1983,ENG,played,IND,,0,,0,,0,,0
-527, Leeds,League-Match,PAK,SL,235.0,7.0,224.0,0.0,Abdul Qadir,1983,ENG,played,PAK,,0,,0,,0,,0
+443, Gqeberha,League-Match,ENG,NAM,272.0,0.0,217.0,9.0,Jan-Berrie Burger,2003,SA,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+444, Harare,League-Match,IND,ZIM,255.0,7.0,172.0,0.0,Sachin Tendulkar,2003,SA,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+445, Centurion,League-Match,NZ,IND,146.0,0.0,150.0,3.0,Zaheer Khan,2003,SA,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+446, Potchefstroom,League-Match,AUS,NED,170.0,2.0,122.0,0.0,Damien Martyn,2003,SA,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+447, Johannesburg,Final,AUS,IND,359.0,2.0,234.0,0.0,Ricky Ponting,2003,SA,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+449, Kimberley,League-Match,PAK,NAM,255.0,9.0,84.0,0.0,Wasim Akram,2003,SA,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+450, Durban,League-Match,KENYA,AUS,174.0,8.0,178.0,5.0,Aasif Karim,2003,SA,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+451, Durban,Semi-Final,IND,KENYA,270.0,4.0,179.0,0.0,Sourav Ganguly,2003,SA,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+452, Durban,League-Match,SL,SA,268.0,9.0,229.0,6.0,Marvan Atapattu,2003,SA,played,Unknown,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+453, Cape Town,League-Match,ENG,PAK,246.0,8.0,134.0,0.0,James Anderson,2003,SA,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+454, Harare,League-Match,ZIM,NAM,340.0,2.0,104.0,5.0,Craig Wishart,2003,SA,played,ZIM,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+455, Cape Town,League-Match,CAN,KENYA,197.0,0.0,198.0,6.0,Thomas Odoyo,2003,SA,played,KENYA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+456, Potchefstroom,League-Match,AUS,NAM,301.0,6.0,45.0,0.0,Glenn McGrath,2003,SA,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+457, Bulawayo,League-Match,ZIM,AUS,246.0,9.0,248.0,3.0,Andy Blignaut,2003,SA,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+458, Durban,League-Match,IND,ENG,250.0,9.0,168.0,0.0,Ashish Nehra,2003,SA,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+459, Kimberley,League-Match,BAN,NZ,198.0,7.0,199.0,3.0,Craig McMillan,2003,SA,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+460, Centurion,League-Match,PAK,IND,273.0,7.0,276.0,4.0,Sachin Tendulkar,2003,SA,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+461, Bloemfontein,League-Match,NED,NAM,314.0,4.0,250.0,0.0,Feiko Kloppenburg,2003,SA,played,NED,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+462, East London,League-Match,SA,CAN,254.0,8.0,136.0,5.0,Boeta Dippenaar,2003,SA,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+463, Benoni,League-Match,WI,BAN,244.0,9.0,32.0,2.0,Unknown,2003,SA,played,Unknown,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+464, Paarl,League-Match,PAK,NED,253.0,9.0,156.0,0.0,Mohammad Yousuf,2003,SA,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+465, Johannesburg,League-Match,IND,SL,292.0,6.0,109.0,0.0,Javagal Srinath,2003,SA,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+467, Pietermaritzburg,League-Match,BAN,SL,124.0,0.0,126.0,0.0,Chaminda Vaas,2003,SA,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+468, Johannesburg,League-Match,SA,NZ,306.0,6.0,229.0,1.0,Stephen Fleming,2003,SA,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+469, Nairobi (Gym),League-Match,KENYA,SL,210.0,9.0,157.0,0.0,Collins Obuya,2003,SA,played,KENYA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+470, Bloemfontein,League-Match,BAN,SA,108.0,0.0,109.0,0.0,Makhaya Ntini,2003,SA,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+471, Centurion,League-Match,AUS,SL,319.0,5.0,223.0,0.0,Ricky Ponting,2003,SA,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+472, Centurion,League-Match,IND,AUS,125.0,0.0,128.0,1.0,Jason Gillespie,2003,SA,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+473, Cape Town,League-Match,SL,WI,228.0,6.0,222.0,9.0,Chaminda Vaas,2003,SA,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+474, Bloemfontein,League-Match,ZIM,KENYA,133.0,0.0,135.0,3.0,Martin Suji,2003,SA,played,KENYA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+475, East London,League-Match,NED,ENG,142.0,9.0,144.0,4.0,James Anderson,2003,SA,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+476, Gqeberha,Semi-Final,AUS,SL,212.0,7.0,123.0,7.0,Andrew Symonds,2003,SA,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+478, Bloemfontein,League-Match,ZIM,KENYA,133.0,0.0,135.0,3.0,Martin Suji,2003,SA,played,KENYA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+479, Cape Town,League-Match,WI,SA,278.0,5.0,275.0,9.0,Brian Lara,2003,SA,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+480, Cape Town,League-Match,KENYA,IND,225.0,6.0,226.0,4.0,Sourav Ganguly,2003,SA,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+481, Gqeberha,League-Match,AUS,NZ,208.0,9.0,112.0,0.0,Shane Bond,2003,SA,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+482, Gqeberha,League-Match,NZ,WI,241.0,7.0,221.0,0.0,Andre Adams,2003,SA,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+483, Paarl,League-Match,IND,NED,204.0,0.0,136.0,0.0,Tim de Leede,2003,SA,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+484, Benoni,League-Match,CAN,NZ,196.0,0.0,197.0,5.0,John Davison,2003,SA,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+485, Durban,League-Match,CAN,BAN,180.0,0.0,120.0,0.0,Austin Codrington,2003,SA,played,CAN,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+486, Potchefstroom,League-Match,KENYA,SA,140.0,0.0,142.0,0.0,Lance Klusener,2003,SA,played,SA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+487, Pietermaritzburg,League-Match,IND,NAM,311.0,2.0,130.0,0.0,Sachin Tendulkar,2003,SA,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+488, East London,League-Match,SL,ZIM,256.0,5.0,182.0,0.0,Marvan Atapattu,2003,SA,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+490, Gqeberha,League-Match,ENG,AUS,204.0,8.0,208.0,8.0,Andy Bichel,2003,SA,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+491, Bulawayo,League-Match,ZIM,NED,301.0,8.0,202.0,9.0,Heath Streak,2003,SA,played,ZIM,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+492, Johannesburg,League-Match,KENYA,BAN,217.0,7.0,185.0,0.0,Maurice Odumbe,2003,SA,played,KENYA,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+493, Centurion,League-Match,CAN,WI,202.0,0.0,206.0,3.0,John Davison,2003,SA,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+494, Bloemfontein,League-Match,SL,NZ,272.0,7.0,225.0,0.0,Sanath Jayasuriya,2003,SA,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+495, Johannesburg,League-Match,AUS,PAK,310.0,8.0,228.0,0.0,Andrew Symonds,2003,SA,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+496, Bloemfontein,League-Match,ZIM,NZ,252.0,7.0,253.0,4.0,Nathan Astle,2003,SA,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+497, Paarl,League-Match,CAN,SL,36.0,0.0,37.0,1.0,Prabath Nissanka,2003,SA,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+498, Kimberley,League-Match,WI,KENYA,246.0,7.0,104.0,0.0,Vasbert Drakes,2003,SA,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+499, Tunbridge Wells,League-Match,IND,ZIM,266.0,8.0,235.0,0.0,Kapil Dev,1983,ENG,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+500, Nottingham,League-Match,ZIM,AUS,239.0,6.0,226.0,7.0,Duncan Fletcher,1983,ENG,played,ZIM,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+501, Birmingham,League-Match,ZIM,WI,171.0,0.0,172.0,0.0,Faoud Bacchus,1983,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+502, Chelmsford,League-Match,IND,AUS,247.0,0.0,129.0,0.0,Roger Binny,1983,ENG,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+503, Bristol,League-Match,SL,NZ,206.0,0.0,209.0,5.0,Richard Hadlee,1983,ENG,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+504, Worcester,League-Match,ZIM,WI,217.0,7.0,218.0,2.0,Gordon Greenidge,1983,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+505, The Oval,League-Match,ENG,NZ,322.0,6.0,216.0,0.0,Allan Lamb,1983,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+506, Leicester,League-Match,ZIM,IND,155.0,0.0,157.0,5.0,Madan Lal,1983,ENG,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+507, Taunton,League-Match,ENG,SL,333.0,9.0,286.0,0.0,David Gower,1983,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+508, Derby,League-Match,NZ,SL,181.0,0.0,184.0,7.0,Ashantha de Mel,1983,ENG,played,SL,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+509, Manchester,Semi-Final,ENG,IND,213.0,0.0,217.0,4.0,Mohinder Amarnath,1983,ENG,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+510, Southampton,League-Match,AUS,ZIM,272.0,7.0,240.0,0.0,Dave Houghton,1983,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+511, Lord's,League-Match,PAK,ENG,193.0,8.0,199.0,2.0,Zaheer Abbas,1983,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+512, Taunton,League-Match,ENG,SL,333.0,9.0,286.0,0.0,David Gower,1983,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+513, Birmingham,League-Match,ENG,NZ,234.0,0.0,238.0,8.0,Jeremy Coney,1983,ENG,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+514, The Oval,Semi-Final,PAK,WI,184.0,8.0,188.0,2.0,Viv Richards,1983,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+515, Swansea,League-Match,PAK,SL,338.0,5.0,288.0,9.0,Mohsin Khan,1983,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+516, Nottingham,League-Match,PAK,NZ,261.0,3.0,250.0,0.0,Imran Khan,1983,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+517, Leeds,League-Match,WI,AUS,252.0,9.0,151.0,0.0,Winston Davis,1983,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+518, The Oval,League-Match,WI,IND,282.0,9.0,216.0,0.0,Viv Richards,1983,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+519, Nottingham,League-Match,AUS,IND,320.0,9.0,158.0,0.0,Trevor Chappell,1983,ENG,played,AUS,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+520, Lord's,League-Match,AUS,WI,273.0,6.0,276.0,3.0,Viv Richards,1983,ENG,played,WI,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+521, Manchester,League-Match,IND,WI,262.0,8.0,228.0,0.0,Yashpal Sharma,1983,ENG,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+522, Leeds,League-Match,SL,ENG,136.0,0.0,137.0,1.0,Bob Willis,1983,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+523, Birmingham,League-Match,NZ,PAK,238.0,9.0,186.0,0.0,Abdul Qadir,1983,ENG,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+524, Bristol,League-Match,SL,NZ,206.0,0.0,209.0,5.0,Richard Hadlee,1983,ENG,played,NZ,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+525, Manchester,League-Match,PAK,ENG,232.0,8.0,233.0,3.0,Graeme Fowler,1983,ENG,played,ENG,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+526, Lord's,Final,IND,WI,183.0,0.0,140.0,0.0,Mohinder Amarnath,1983,ENG,played,IND,Unknown,0,Unknown,0,Unknown,0,Unknown,0
+527, Leeds,League-Match,PAK,SL,235.0,7.0,224.0,0.0,Abdul Qadir,1983,ENG,played,PAK,Unknown,0,Unknown,0,Unknown,0,Unknown,0
