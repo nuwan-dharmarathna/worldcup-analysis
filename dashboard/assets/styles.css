@@ -1,0 +1,59 @@
+/* Flexbox styling for the header-container */
+.header-container {
+    display: flex;             
+    align-items: center;       
+    justify-content: space-between; 
+    padding: 10px 20px;
+
+.header-container-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+/* Style for the header text */
+#page-header {
+    flex: 1;
+    margin-left: 20px;                   /* Allow header to take available space */
+    text-align: center;        /* Center-align the text */
+    margin: 0;                 /* Remove default margin */
+    font-size: 2.5em;            /* Adjust font size */
+    color: #1a73e8;            /* Customize color */
+}
+
+/* Style for the button */
+#back-button {
+    margin: 0;                 /* Remove margin */
+}
+#back-button button {        
+    border: none; 
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: white;
+    justify-content: space-between;
+    border-width: 5px;
+    border-radius: 15px;     
+}
+
+#back-button button:hover {
+    background-color: #939598; /* Darker background on hover */
+}
+
+body {
+    background-color: #61616a;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+h1 {
+    font-size: 2.5em;
+    color: #1a73e8;
+    text-shadow: 1px 1px #ccc;
+}
+label {
+    font-weight: bold;
+}
+.dash-dropdown {
+    margin-bottom: 20px;
+}
+}
