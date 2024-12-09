@@ -11,8 +11,6 @@ def entity_sentiment_analysis(text, target_entity):
     entities = ner_model(text)
     entity_names = [e['word'] for e in entities]
     
-    print(entity_names)
-    
     # Check if the target entity is in the text
     if target_entity not in entity_names:
         return f"No sentiment detected for {target_entity}"
@@ -28,8 +26,3 @@ def entity_sentiment_analysis(text, target_entity):
             return f"Negative sentiment for {target_entity}"
     
     return f"Neutral sentiment for {target_entity}"
-
-
-text = "India scored 210 runs in the match"
-res = entity_sentiment_analysis(text, "India")
-print(res)

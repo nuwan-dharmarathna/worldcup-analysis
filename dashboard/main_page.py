@@ -4,9 +4,13 @@ import pandas as pd
 import dash
 
 from sentiment_prediction import entity_sentiment_analysis
+from map_team import get_team_name
 
 # Load the dataset
 data = pd.read_csv("../data/crick_df_cleaned.csv")
+
+# Extract unique team names
+unique_teams = sorted(pd.concat([data["team_1"], data["team_2"]]).unique())
 
 def get_main_page_layout():
     """Return the layout for the Main Page."""
@@ -39,8 +43,8 @@ def get_main_page_layout():
                         html.Label("Select Team 1:"),
                         dcc.Dropdown(
                             id="team1-dropdown",
-                            # options=[{"label": team, "value": team} for team in unique_teams],
-                            # value=unique_teams[0],
+                            options=[{"label": team, "value": team} for team in unique_teams],
+                            value=unique_teams[0],
                             clearable=False,
                         ),
                     ], style={"width": "30%", "display": "inline-block", "margin-left": "30px"}),
@@ -49,8 +53,8 @@ def get_main_page_layout():
                         html.Label("Select Team 2:"),
                         dcc.Dropdown(
                             id="team2-dropdown",
-                            # options=[{"label": team, "value": team} for team in unique_teams],
-                            # value=unique_teams[1],
+                            options=[{"label": team, "value": team} for team in unique_teams],
+                            value=unique_teams[1],
                             clearable=False,
                         ),
                     ], style={"width": "30%", "display": "inline-block", "margin-right": "10px"}),
@@ -88,28 +92,40 @@ def get_main_page_layout():
         ]),
     ])
 
-def sentiment_prediction(team1, team2, user_input):
+def sentiment_analysis(user_input, team1):
     """Predict the sentiment of the user input."""
-    
+    if not user_input:
+        return "No input provided for analysis."
     prediction = entity_sentiment_analysis(user_input, team1)
-
     return prediction
+
 
 def register_main_page_callbacks(app):
     """Register callbacks for the Main Page."""
+    
+    # Callback for Sentiment Prediction
+    @app.callback(
+        Output("prediction-output", "children"),
+        [Input("submit-button", "n_clicks")],
+        [State("team1-dropdown", "value"),
+         State("user-input", "value")]
+    )
+    def update_prediction(submit_clicks, team1, user_input):
+        if submit_clicks > 0:
+            team1 = get_team_name(team1)
+            user_input = user_input + " from " + team1
+            return sentiment_analysis(user_input, team1)
+        return ""
+
+    # Callback for Charts
     @app.callback(
         [Output("summary-chart-1", "figure"),
-         Output("summary-chart-2", "figure"),
-         Output("prediction-output", "children"),],
+         Output("summary-chart-2", "figure")],
         [Input("League-Match", "n_clicks"),
          Input("Semi-Final", "n_clicks"),
-         Input("Final", "n_clicks"),
-         Input("submit-button", "n_clicks"),],
-        State("team1-dropdown", "value"),
-        State("team2-dropdown", "value"),
-        State("user-input", "value")
+         Input("Final", "n_clicks")]
     )
-    def update_summary_chart(odi_clicks, test_clicks, t20_clicks):
+    def update_charts(league_clicks, semi_final_clicks, final_clicks):
         # Determine the selected category
         ctx = dash.callback_context
         if not ctx.triggered:
@@ -122,12 +138,12 @@ def register_main_page_callbacks(app):
 
         # Create charts
         fig1 = px.bar(
-        filtered_data, 
-            x='team_1', 
-            y='team_1_runs', 
-            color='winning_team', 
-            title='Team Performance in Selected Match Category',
-            labels={'team_1': 'Team', 'team_1_runs': 'Runs'}
+            filtered_data, 
+            x="team_1", 
+            y="team_1_runs", 
+            color="winning_team", 
+            title="Team Performance in Selected Match Category",
+            labels={"team_1": "Team", "team_1_runs": "Runs"}
         )
 
         fig2 = px.pie(
@@ -135,7 +151,5 @@ def register_main_page_callbacks(app):
             names="winning_team",
             title="Winning Teams Distribution",
         )
-        
-        
-        
+
         return fig1, fig2
