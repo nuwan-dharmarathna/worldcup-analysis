@@ -41,9 +41,3 @@ pip install -r requirements.txt
 ```bash
 cd dashboard
 python app.py
-
-### Key Points:
-
-- **Image**: The image is referenced with a relative path `assets/images/dashboard-screenshot.png`. Adjust the path as needed.
-- **Steps to Run**: Clear instructions are provided for cloning the repo, installing dependencies, running the app, and exploring the dashboard.
-- **Project Structure**: A quick summary of the important files and their roles in the project.
